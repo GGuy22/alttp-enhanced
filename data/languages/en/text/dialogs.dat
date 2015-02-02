@@ -1,0 +1,4829 @@
+dialog{
+  id = "000",
+  text = [[
+
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "001",
+  text = [[
+[Speed 0]
+      
+    >[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "002",
+  text = [[
+[Speed 0]
+      
+    >[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "003",
+  text = [[
+[Speed 0]Save And Continue
+Save And Quit
+Do Not Save And Continue
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "004",
+  text = [[
+[Speed 0]0- [Number 0]. 1- [Number 1]
+2- [Number 2]. 3- [Number 3]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "005",
+  text = [[
+You can't enter with something
+following you.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "006",
+  text = [[
+[Speed 0]
+>
+  
+  [Choose2]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "007",
+  text = [[
+[Speed 0]
+  
+>
+  [Choose2]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "008",
+  text = [[
+[Speed 0]
+  
+  
+>[Choose2]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "009",
+  text = [[
+[Speed 0]
+>
+  [Choose3]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "010",
+  text = [[
+[Speed 0]
+  
+>[Choose3]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "011",
+  text = [[
+[Speed 0]
+    
+  >[SelChng]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "012",
+  text = [[
+[Speed 0]
+    
+  >[SelChng]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "013",
+  text = [[
+[Name], I'm going out for a
+while.  I'll be back by morning.
+Don't leave the house.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "014",
+  text = [[
+Unnh[...] [Name], I didn't want
+you involved in this[...]  I told
+you not to leave the house[...][WaitKey]
+Take my sword and shield and
+listen.  You can focus power in
+the blade (hold the [B] Button).[WaitKey]
+[...]Then release it using the
+secret technique handed down
+by our people[...][WaitKey]
+[Name], you can do it!
+Save the Princess[...]
+Zelda is your[...] [...] [...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "015",
+  text = [[
+What're you doing up this late,
+kid?  You can stay up when
+you're grown up!  Now go home!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "016",
+  text = [[
+I see you brought a map so you
+don't get lost.  (Press the
+[X] Button to see your map).
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "017",
+  text = [[
+You look strong for a kid.  How
+much can you lift?  (Press the
+[A] Button while touching a thing[WaitKey]
+to lift it.)
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "018",
+  text = [[
+I'll bet you can't wait until you
+are old enough to use a sword!
+(Press the [B] Button to use[WaitKey]
+your sword when you get it.)
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "019",
+  text = [[
+That mark on your map must be
+your destination.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "020",
+  text = [[
+You can often find valuables
+in chests.  (Press the [A]
+Button in front of a chest to[WaitKey]
+open it.)
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "021",
+  text = [[
+Us soldiers have been around,
+kid.  You can learn a lot from
+us.  But you already know that!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "022",
+  text = [[
+Meet the elder of the village
+and get the Master Sword.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "023",
+  text = [[
+Princess Zelda, you are safe!
+Is this your doing, [Name]?
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "024",
+  text = [[
+I sense that a mighty evil
+force guides the wizard's
+actions and augments his[WaitKey]
+magical power.  The only
+weapon potent enough to
+defeat the wizard is the[WaitKey]
+legendary Master Sword.
+It is said that the village elder
+is a descendant of one of the[WaitKey]
+seven wise men.  Maybe
+he can tell you more[...]
+I will mark his house on your[WaitKey]
+map.  But watch your every
+move!  I am certain that the
+castle soldiers will be looking[WaitKey]
+for you now!  [...]    [...]    [...][Sound 2D]
+I will hide Princess Zelda here.
+Do not worry!  Seek the elder![WaitKey]
+[...]    [...]    [...]
+Do you understand?
+    > Yes
+       Not at all[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "025",
+  text = [[
+If you defeat the wizard, the
+soldiers may regain
+their sanity.[WaitKey]
+Go, seek the Pendants!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "026",
+  text = [[
+Take the three Pendants into
+the Lost Woods.  The Master
+Sword awaits you there.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "027",
+  text = [[
+[Name]!  You are a second too
+late.  I have failed[...] Zelda[...]
+The soldiers have[WaitKey]
+abducted her.
+They have taken her to
+the castle.[WaitKey]
+You must find her before the
+wizard works his magic.
+Please[...]You are our only hope[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "028",
+  text = [[
+Thank you, [Name].  I had a
+feeling you were getting close.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "029",
+  text = [[
+Yes, it was [Name] who helped
+me escape from the dungeon!
+When I was captive the wizard[WaitKey]
+said, "Once I have finished with
+you, the final one, the seal of
+the wise men will open."[WaitKey]
+[...]    [...]    [...]
+[Name], you must not let the
+land of Hyrule fall into the[WaitKey]
+wizard's clutches.
+If he releases the seal of the
+seven wise men, evil power will[WaitKey]
+overwhelm this land.
+Before that happens[...]
+before it's too late[...] destroy[WaitKey]
+the wizard before he destroys
+all of Hyrule!  You can do it!
+You can[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "030",
+  text = [[
+[Name], be careful out there!
+I know you can save Hyrule!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "031",
+  text = [[
+[Window 2][Speed 3]Help me[...][Wait 1]
+Please help me[...][WaitKey]
+I am a prisoner in the dungeon
+of the castle.
+My name is Zelda.[WaitKey]
+The wizard, Agahnim, has done[...]
+something to the other missing
+girls.  Now only I remain[...][WaitKey]
+Agahnim has seized control of
+the castle and is now trying to
+open the seven wise men's[WaitKey]
+seal.  [...]   [...]
+I am in the dungeon of the
+castle.[WaitKey]
+Please help me[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "032",
+  text = [[
+[Window 2][Speed 3]Help me[...]
+I am in the dungeon of the
+castle.[WaitKey]
+I know there is a hidden path
+from outside of  the castle to
+the garden inside.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "033",
+  text = [[
+There is a secret passage in
+the throne room that leads to
+Sanctuary.  I'm sure the old[WaitKey]
+man there will help us.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "034",
+  text = [[
+That ornamental shelf should
+open.  Do you have a light?
+It's pitch dark inside and you[WaitKey]
+can't see without one.
+If you're ready, let's go!
+Help me push it from the left!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "035",
+  text = [[
+You have to pull the lever to
+open the door.  (Press the [A]
+Button and hold Down on the[WaitKey]
+Control Pad. )
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "036",
+  text = [[
+All right,  let's get out of here
+before the wizard notices.  I
+know a secret path, but first[WaitKey]
+we have to go to the
+first floor.  Let's  go!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "037",
+  text = [[
+[Name], listen carefully.  The
+wizard is magically controlling
+all the soldiers in the castle.[WaitKey]
+I fear the worst for
+my father[...]
+The wizard is an inhuman fiend[WaitKey]
+with strong magical powers!
+[...]   [...]   [...][WaitKey]
+Do you understand?
+    > Yes
+       Not at all[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "038",
+  text = [[
+You should follow the marks
+the elder made on your map
+when you explore.[WaitKey]
+If you don't know what to do
+next, you can also visit a
+fortune teller.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "039",
+  text = [[
+[Name], you are wonderful!
+As I thought, you have the
+power of the Hero inside you![WaitKey]
+Now, you should get the Master
+Sword.  I am confident that you
+can defeat the evil wizard!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "040",
+  text = [[
+[Window 2][Speed 3][Name]!  Help!  The soldiers
+are coming to Sanctuary!
+AIEEEEEEE![WaitKey]
+[...] [...] [...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "041",
+  text = [[
+After passing through these
+sewers, we will be very close
+to Sanctuary![WaitKey]
+Let's be careful!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "042",
+  text = [[
+Sanctuary is just beyond that
+door.  Pull the switch over
+there.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "043",
+  text = [[
+Who? Oh, it's you, [Name]!
+What can I do for you, young
+man?  The elder?  Oh, no one[WaitKey]
+has seen him since the wizard
+began collecting victims[...]
+[...]   [...]   [...][WaitKey]
+What?  Master Sword?  Well, I
+don't remember the details
+exactly, but[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "044",
+  text = [[
+Long ago, a prosperous people
+known as the Hylia inhabited
+this land[...][WaitKey]
+Legends tell of many treasures
+that the Hylia hid throughout
+the land[...][WaitKey]
+The Master Sword, a mighty
+blade forged against those
+with evil hearts, is one of[WaitKey]
+them.  People say that now it
+is sleeping deep in the forest[...]
+[...] [...] [...][WaitKey]
+Do you understand the legend?
+    > Yes
+       Not at all[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "045",
+  text = [[
+Anyway, look for the elder.
+There must be someone in the
+village who knows where he is.[WaitKey]
+You take care now, [Name][...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "046",
+  text = [[
+Ohhh,[Name].  You've changed!
+You look marvelous[...]  Please
+save us from Agahnim[WaitKey]
+the wizard!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "047",
+  text = [[
+Hey!  Here is [Name], the
+wanted man!  Soldiers!  Anyone!
+Come quickly!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "048",
+  text = [[
+Incredible!  At last you have
+the three Pendants[...]  Now, you
+should go to the Lost Woods.[WaitKey]
+If you are the true Hero, the
+sword itself will select you.
+[...] [...] [...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "049",
+  text = [[
+I am too old to fight.
+I can only rely on you.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "050",
+  text = [[
+I am, indeed, Sahasrahla, the
+village elder and a descendent
+of the seven wise men.[WaitKey]
+[...]   [...]     Oh really?
+[Name], I am surprised a young
+man like you is searching for[WaitKey]
+the sword of evil's bane.
+Not just anyone can use that
+weapon.  Legends say only the[WaitKey]
+Hero who has won the three
+Pendants can wield the sword.
+[...]   [...]   [...][WaitKey]
+Do you really want to find it?
+    > Yeah!
+       Of Course![Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "051",
+  text = [[
+Good.  As a test, can you
+retrieve the Pendant Of
+Courage from the East Palace?[WaitKey]
+If you bring it here, I will tell
+you more of the legend and
+give you a magical artifact.[Sound 2D][WaitKey]
+Now, go forward to the palace.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "052",
+  text = [[
+Other relatives of the wise men
+are hiding from the evil
+wizard's followers.[WaitKey]
+You should find them.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "053",
+  text = [[
+[Window 2][Speed 3][Name], it is I, Sahasrahla.
+I am communicating to you
+across the void through[WaitKey]
+telepathy[...]  The place where
+you now stand was the Golden
+Land, but evil power turned it[WaitKey]
+into the Dark World.  The
+wizard has broken the wise
+men's seal and opened a gate[WaitKey]
+to link the worlds
+at Hyrule Castle.  In
+order to save this half of the[WaitKey]
+world, the Light World, you
+must win back the Golden
+Power.  You must also rescue[WaitKey]
+the seven maidens who Agahnim
+sent to the Dark World.  As
+members of the blood-line of[WaitKey]
+the seven wise men, they have
+power that will surely help you.
+The maidens are locked in[WaitKey]
+hidden dungeons full of evil
+creatures and dangerous traps.
+The Palace of Darkness should[WaitKey]
+be your first goal in this world![Sound 2D]
+[Name], I can rely on only
+you.  Please make this old[WaitKey]
+man's wishes come true.
+I beg you!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "054",
+  text = [[
+[Window 2][Speed 3]But I sense your helplessness[...]
+Before you go any further,
+find the Moon Pearl on[WaitKey]
+Death Mountain.  It will protect
+you from the Dark World's
+magic so you can keep your[WaitKey]
+heroic figure.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "055",
+  text = [[
+A helpful item is hidden in the
+cave on the east side of Lake
+Hylia.  Get it!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "056",
+  text = [[
+Oh!?  You got the Pendant Of
+Courage!  Now I will tell you
+more of the legend[...][WaitKey]
+Three or four generations ago,
+an order of knights protected
+the royalty of the Hylia.[WaitKey]
+These Knights Of Hyrule were
+also guardians of the Pendant
+Of Courage.[WaitKey]
+Unfortunately, most of them
+were destroyed in the great
+war against evil that took[WaitKey]
+place when the seven wise men
+created their seal.  Among the
+descendants of the Knights Of[WaitKey]
+Hyrule a hero must appear.
+[...]I see.  [Name], I believe you.
+You should get the remaining[WaitKey]
+Pendants.
+And carry this with you.
+This is a treasure passed down[WaitKey]
+by the families of the wise
+men.  I want you to have it.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "057",
+  text = [[
+You are correct, young man!
+I am Sahasrahla, the village
+elder and a descendent of the[WaitKey]
+seven wise men.
+[...] [...] [...] What?
+[Name], I'm surprised a young[WaitKey]
+man like you is looking for the
+sword of evil's bane.  Not just
+anyone can use that sword.[WaitKey]
+According to the tales handed
+down by the Hylia, only the
+Hero who has destroyed three[WaitKey]
+great evils and won the three
+Pendants can wield the sword[...]
+[...] [...] [...][WaitKey]
+I see you have acquired the
+Pendant of Courage.  I will tell
+you about the legend behind it.[WaitKey]
+Three or four generations ago,
+an order of knights protected
+the royalty of the Hylia.[WaitKey]
+These Knights Of Hyrule were
+also guardians of the Pendant
+Of Courage.[WaitKey]
+Unfortunately, most of them
+were destroyed in the great
+war against evil that took[WaitKey]
+place when the seven wise men
+created their seal.  Among the
+descendants of the Knights Of[WaitKey]
+Hyrule a hero must appear.
+[...]I see.  [Name], I believe you.
+You should get the remaining[WaitKey]
+Pendants.
+And carry this with you.
+This is a treasure passed down[WaitKey]
+by the families of the wise
+men.  I want you to have it.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "058",
+  text = [[
+I will give 100 Rupees to the
+man who finds the descendants
+of the wise men.   THE KING
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "059",
+  text = [[
+  [LinkL][LinkR]  WANTED!  This is the
+criminal who kidnapped Zelda.
+Call a soldier if you see him!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "060",
+  text = [[
+     DANGER!
+Do not enter Death Mountain
+without the King's permission!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "061",
+  text = [[
+This way to the
+     Lost Woods
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "062",
+  text = [[
+           DANGER!
+Beware of deep water and Zora!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "063",
+  text = [[
+Welcome to the Magic Shop.
+The Waterfall Of Wishing is
+just ahead.  
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "064",
+  text = [[
+This cave leads to the path
+back to Kakariko Village.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "065",
+  text = [[
+This way [Down]
+         Lake Hylia
+         Shop
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "066",
+  text = [[
+This way [Left]
+         Kakariko Village
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "067",
+  text = [[
+This way [Left]
+         Desert Of Mystery
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "068",
+  text = [[
+This way [Up] [Right]
+         Magic Shop
+         Waterfall Of Wishing
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "069",
+  text = [[
+This way [Right] Eastern Palace
+This way [Left] Hyrule Castle
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "070",
+  text = [[
+
+        Lake Hylia
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "071",
+  text = [[
+Pay no attention to the
+average middle-aged man
+standing by this sign.[WaitKey]
+Leave him alone!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "072",
+  text = [[
+
+The House Of Lumberjacks
+A. Bumpkin and B. Bumpkin
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "073",
+  text = [[
+This way [Down]
+       Kakariko Village
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "074",
+  text = [[
+Double, double toil and trouble,
+fire burn and cauldron bubble[...]
+Making mushroom brew, I am[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "075",
+  text = [[
+Heh heh[...]  Thank you, young
+man[...]  Come back to the shop
+later for something good[...][WaitKey]
+Heh heh[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "076",
+  text = [[
+Mmmmm[...]  The smell of rotten
+fruit[...]  If you give me that
+Mushroom, I can finish my brew.[WaitKey]
+Heh heh[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "077",
+  text = [[
+If you want to buy the potion,
+you should bring a bottle to
+put it in[...]  He he he!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "078",
+  text = [[
+Red is the medicine of life.
+Green is the medicine of magic.
+Blue renews both life and[WaitKey]
+magic.
+Here, taste a sample of the
+Red Potion[...]  He he!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "079",
+  text = [[
+Without a magic bottle, you can
+not buy any potions.
+He he he!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "080",
+  text = [[
+No,  no,  no[...]  I can't put
+anything into a full bottle.
+He he he!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "081",
+  text = [[
+You got the Lamp!
+Now you can light torches and
+see your way in darkness.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "082",
+  text = [[
+You got the Boomerang!
+Give it a try!  (To select an
+item, press the Start Button. )
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "083",
+  text = [[
+You found the Bow!
+You can shoot arrows until you
+run out!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "084",
+  text = [[
+You borrowed a shovel!
+You can dig in many places.
+You never know what you'll[WaitKey]
+find!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "085",
+  text = [[
+This is the Magic Cape!
+You are invisible when you wear
+it! Watch your Magic Meter!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "086",
+  text = [[
+This is Magic Powder!
+Try to sprinkle it on enemies
+and many other things!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "087",
+  text = [[
+You bought Zora's Flippers!
+With these you should be able
+to swim even in deep water!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "088",
+  text = [[
+You got the Power Glove!
+You can feel strength in both
+hands!  You can pick up and[WaitKey]
+carry stones now!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "089",
+  text = [[
+You won the Pendant Of
+Courage!  Take it to
+Sahasrahla![WaitKey]
+Two Pendants remain!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "090",
+  text = [[
+You won the Pendant Of Power!
+Your goal of finding three
+Pendants is in sight![WaitKey]
+Go for the last one!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "091",
+  text = [[
+You won the Pendant Of Wisdom!
+With this, you have collected
+all three Pendants!  Go now to[WaitKey]
+the Lost Woods to get
+the Master Sword!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "092",
+  text = [[
+This Mushroom smells like sweet
+rotten fruit[...]
+You can give this to anyone[WaitKey]
+who wants it (Select it and
+press the [Y] Button).
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "093",
+  text = [[
+You found the Book of Mudora!
+You can use it to read the
+ancient language of the Hylia!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "094",
+  text = [[
+You found the Moon Pearl!
+This protects The Hero from
+the changing effects of the[WaitKey]
+Golden Power.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "095",
+  text = [[
+You found the Compass!
+Now you can pinpoint the
+lair of the dungeon's evil[WaitKey]
+master!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "096",
+  text = [[
+You got the Map!
+You can use it to see your
+current position and the rest[WaitKey]
+of the dungeon (Press [X]).
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "097",
+  text = [[
+You found the Ice Rod!
+Its chill magic blasts the air!
+But watch your Magic Meter!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "098",
+  text = [[
+You found the Fire Rod!
+This rod commands the red fire!
+But watch your Magic Meter!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "099",
+  text = [[
+This is the Ether Medallion!
+Its magic controls the upper
+atmosphere and polar wind![WaitKey]
+Watch your Magic Meter!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "100",
+  text = [[
+This is the Bombos Medallion!
+Its magic makes the ground
+explode with power![WaitKey]
+Watch your Magic Meter!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "101",
+  text = [[
+This is the Quake Medallion!
+Its magic causes the ground
+to shake and defeats[WaitKey]
+nearby enemies!
+Watch your Magic Meter!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "102",
+  text = [[
+You got the Magic Hammer!
+You can drive the wooden
+stakes down into the ground![WaitKey]
+You can use it to pound on
+other things too!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "103",
+  text = [[
+Oh!  Here is the Flute!
+Its music surely has some
+mysterious power!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "104",
+  text = [[
+You got the Cane Of Somaria!
+It will be very helpful if you
+make proper use of it![WaitKey]
+What a mysterious cane!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "105",
+  text = [[
+BOING!  This is the Hook Shot!
+It extends and contracts and[...]
+BOING!  It can grapple many[WaitKey]
+things!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "106",
+  text = [[
+You got some Bombs!
+You can pick up and throw
+a Bomb you placed[WaitKey]
+(Press the [A] Button)!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "107",
+  text = [[
+This is a Magic Bottle!
+You can store an item
+inside and then use it later!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "108",
+  text = [[
+You got the Big Key!
+This is the master key of the
+dungeon.  It can open many[WaitKey]
+locks that small keys cannot.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "109",
+  text = [[
+You got the Titan's Mitt!
+Now you can lift the heaviest
+stones that were once[WaitKey]
+impossible to budge.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "110",
+  text = [[
+He gave you the Magic Mirror!
+This mirror is blue, clear and
+beautiful[...][WaitKey]
+You feel like it is going to
+absorb you into another world[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "111",
+  text = [[
+This is it!  The Master Sword!
+[...]  [...]  [...]
+No, this can't be it[...] Too bad.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "112",
+  text = [[
+[Window 2][Speed 3]Suddenly, Sahasrahla contacts
+you telepathically[...]
+[...]  [...]  [...][WaitKey]
+[Name], it is extraordinary
+that you won the Master Sword
+that makes evil retreat[...][WaitKey]
+With this shining sword, I
+believe you can deflect the
+wizard's evil powers.[WaitKey]
+
+The destiny of this land
+is in your hands.[WaitKey]
+Please, [Name][...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "113",
+  text = [[
+Heh heh heh[...]  Thank you!
+This is the Medicine of Life.
+Use it to regain your Life[WaitKey]
+power.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "114",
+  text = [[
+Heh heh heh[...]  Thank you!
+This is the Medicine of Magic.
+You can recharge your mystic[WaitKey]
+energy with it.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "115",
+  text = [[
+Heh heh heh[...]  Thank you!
+This is the Medicine of Life and
+Magic!  You can recover both!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "116",
+  text = [[
+You borrowed the Bug Catching
+Net!  There may be some other
+things you can catch with it,[WaitKey]
+too.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "117",
+  text = [[
+You found the Blue Mail!
+This armor reduces the damage
+that you take from enemies!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "118",
+  text = [[
+You found the Red Mail!
+This provides even better
+protection than the Blue Mail!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "119",
+  text = [[
+Great!  Your sword is stronger!
+You can feel the sheer power
+flowing through your body!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "120",
+  text = [[
+You found the Mirror Shield!
+You can now reflect beams
+that your old shield[WaitKey]
+couldn't block!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "121",
+  text = [[
+You got the Cane Of Byrna!
+If you swing it once, a ring of
+light will protect you!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "122",
+  text = [[
+Eh?  It's locked!
+If you had the Big Key, you
+might be able to open it!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "123",
+  text = [[
+You are short on Magic Power!
+You can't use this item now.
+Watch your Magic Meter!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "124",
+  text = [[
+He gives you the Pegasus
+Shoes!  Now you can execute a
+devastating dash attack![WaitKey]
+(Hold the [A] Button
+for a short time.)
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "125",
+  text = [[
+Wow!  I haven't seen a normal
+person in a few hundred years!
+Let me talk to you for a while.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "126",
+  text = [[
+Do you know about the
+Gargoyle statue in the village?
+People say they can hear a girl[WaitKey]
+calling for help from under the
+statue.  Isn't that a strange
+story[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "127",
+  text = [[
+Surprisingly, the Triforce
+created this world to fulfill
+Ganon's wish.[WaitKey]
+What is Ganon's wish,
+you ask?  It is to rule the
+entire cosmos!  Don't you think[WaitKey]
+it might be possible with the
+power of the Triforce
+behind you?
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "128",
+  text = [[
+I once lived in the Lost Woods,
+until the day I wandered into a
+magic transporter[...][WaitKey]
+The power of the Dark World
+quickly turned me into this
+tree shape[...][WaitKey]
+I guess the two forests are
+connected with each other[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "129",
+  text = [[
+I heard that using Bombs is the
+best way to defeat the
+one-eyed giants.[WaitKey]
+That's all I know!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "130",
+  text = [[
+Quit bothering me!  And watch
+where you're going when you
+dash around!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "131",
+  text = [[
+You got the Pendant Of Power!
+You have now collected all
+three Pendants!  Go forth now[WaitKey]
+to the Lost Woods for the
+Master Sword!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "132",
+  text = [[
+You got the Pendant Of Wisdom!
+Again your power has increased!
+Now, go for the last one!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "133",
+  text = [[
+Well howdy, Light Worlder!
+You look like a straight
+shooter[...]  Want to try your[WaitKey]
+skill in my shooting gallery?
+I'll give you five shots for 20
+Rupees.  If you're as sharp[WaitKey]
+as I think you are, you stand
+to rake in the Rupees.[WaitKey]
+How about it, stranger?
+    > Play
+       No way[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "134",
+  text = [[
+All right!  Aim carefully!
+Ready?  GO!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "135",
+  text = [[
+Well little partner, you can
+turn yourself right around and
+leave the same way you [WaitKey]
+came in.
+See you later!  Have a nice day!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "136",
+  text = [[
+Want to shoot again?
+    > Continue
+       Quit[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "137",
+  text = [[
+--POND OF HAPPINESS--
+Throw some Rupees in and your
+wishes will surely come true.[WaitKey]
+Do you want to throw Rupees?
+    > Throw a few
+       Don't feel like it[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "138",
+  text = [[
+Select an item using the
+Control Pad and throw it using
+the [Y] Button.[Item]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "139",
+  text = [[
+Hello there.  Did you drop this?
+    > Yes
+       No, I didn't[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "140",
+  text = [[
+I like an honest person.
+I will give you something better
+in return.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "141",
+  text = [[
+Are you sure this is not yours?
+    > Really, it isn't
+       To tell the truth, it is[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "142",
+  text = [[
+Now,  now, don't tell me a lie.
+Please take it back.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "143",
+  text = [[
+You got the Magical Boomerang!
+You can throw this faster and
+farther than your old one!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "144",
+  text = [[
+Your shield is improved!
+Now you can defend yourself
+against fireballs!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "145",
+  text = [[
+These are the Silver Arrows
+you need to defeat Ganon!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "146",
+  text = [[
+She filled your bottle with the
+Medicine Of Magic.  To get such
+a potion free is quite[WaitKey]
+a bargain!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "147",
+  text = [[
+Your sword is stronger!
+You can feel its power
+throbbing in your hand!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "148",
+  text = [[
+Happiness increased [Number 3][Number 2] Rupees.
+In total, your Happiness is [Number 1][Number 0].
+You became happier by one[WaitKey]
+step.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "149",
+  text = [[
+I will make your wish come true.
+  >I want to carry more Bombs
+    I want to carry more Arrows[SelChng]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "150",
+  text = [[
+Then I will increase your
+carrying ability so you can
+carry [Number 1][Number 0] Bombs at maximum.[WaitKey]
+This is just a small happiness
+I can give to you.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "151",
+  text = [[
+Then I will increase your
+carrying ability so you can
+carry [Number 1][Number 0] Arrows at maximum.[WaitKey]
+This is just a small happiness
+I can give to you.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "152",
+  text = [[
+I cannot grant any more wishes
+for you, but a friend of mine
+might be able to[...][WaitKey]
+She lives in the Waterfall Of
+Wishing near Zora's lake.
+I will return your Rupees to[WaitKey]
+you.  May you be happy[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "153",
+  text = [[
+Uhhh[...]  Watch your step.
+There are holes in the ground.
+Could you turn right here?[WaitKey]
+Young man, are you also going
+to the mountain to look for the
+Golden Power?[WaitKey]
+Just ahead is a mountain full
+of monsters.  Many people have
+vanished in this mountain while[WaitKey]
+looking for the Golden Power.
+
+[WaitKey]
+I don't want to steer you
+wrong, so please don't get too
+involved in such a mad quest.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "154",
+  text = [[
+Uhh[...]  There must be a Heart in
+the bottle.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "155",
+  text = [[
+Uhh[...]  Turn right here[...]   [...]
+You know, I have a
+granddaughter who is your[WaitKey]
+age[...]  The King took her to the
+castle and she never returned.
+Kidnapping those maidens must[WaitKey]
+be part of the wizard's plot!
+I'm sure he is trying to
+somehow use the power of the[WaitKey]
+descendants of the wise
+men[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "156",
+  text = [[
+I don't know who you are, but
+if you are going to go up
+the mountain, will you take me[WaitKey]
+with you?  I lost my lamp,
+so[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "157",
+  text = [[
+The missing maidens are still
+alive somewhere.  I believe that
+a Hero will rescue them[...][WaitKey]
+I wait for that day[...]
+Uhh[...]  These are dangerous
+times[...]  I talked too much.[WaitKey]
+Anyway[...]  Thank you for your
+kindness to an old man like me.
+Uhh[...]  I wanted to give you[WaitKey]
+this.  If you wander into
+a magical transporter, gaze
+into this mirror.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "158",
+  text = [[
+The wizard has deceived the
+King, and now he is trying to
+open the way to the[WaitKey]
+Dark World.  To complete
+your quest, you will need
+the Moon Pearl, which is in the[WaitKey]
+tower on top of the mountain.
+All I can do for you now is to
+comfort your weariness[...][WaitKey]
+Come back here any time.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "159",
+  text = [[
+
+The Moon Pearl will protect its
+bearer from the magical air of
+the Golden Land, so you can[WaitKey]
+keep your human shape there.
+All I can do for you now is
+comfort your weariness[...] [WaitKey]
+Come back here any time.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "160",
+  text = [[
+[Name], I think the wizard
+connected the two worlds
+somewhere around the castle.[WaitKey]
+All I can do for you now is to
+comfort your weariness[...]
+Come back here any time.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "161",
+  text = [[
+[...]mumble mumble[...]  My son
+really liked to play the flute,
+but he went to look for the[WaitKey]
+Golden Power and has not
+returned[...] [...] [...]
+I wonder where he is and what[WaitKey]
+he is doing now?[...]
+[...]  Zzzzzz  Zzzzzz
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "162",
+  text = [[
+[...]mumble mumble[...]  Oh?  This
+is my son's flute[...]!
+Did you meet my son?[WaitKey]
+Where is he?  Is he all right?
+[...] [...] [...] [...]
+[WaitKey]
+Oh, I see[...]  Well, I can tell
+what you want to say by the
+look in your eyes[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "163",
+  text = [[
+Would you keep the flute?
+And will you play its sweet
+melody for the bird in the[WaitKey]
+village square?
+I beg of you, please!
+My son would probably want it[WaitKey]
+this way[...]
+[...]But still, I wish I could
+see him once more[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "164",
+  text = [[
+Zzzzzzz  Zzzzzzzz
+[...]  [...]  [...]
+Snore  Zzzzzz  Zzzzzz
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "165",
+  text = [[
+Oh, [Name].  The rumors say
+you kidnapped the Princess,
+but I still trust you.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "166",
+  text = [[
+I can't believe you caught me!
+With your speed it must have
+been easy to kidnap Zelda[...][WaitKey]
+You don't look like such a bad
+guy, though[...]
+Anyway, because you have[WaitKey]
+such quick feet, it might be a
+good idea to run and bash into
+many things[...][WaitKey]
+For example, the trees in this
+village have many useful things
+hanging in their branches[...][WaitKey]
+Well, just try it, OK?!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "167",
+  text = [[
+If you have enough time to
+read this sign, you should go
+to the goal immediately!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "168",
+  text = [[
+I'll give a piece of Heart to
+the person who wears the Cape.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "169",
+  text = [[
+Curses to anyone who throws
+something into my circle of
+stones.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "170",
+  text = [[
+This way [Up] Skeleton Forest
+This way [Down] Village Of Outcasts
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "171",
+  text = [[
+
+This way [Right] Cave
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "172",
+  text = [[
+
+This way [Right] Palace Of Darkness
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "173",
+  text = [[
+
+This way [Left] Bomb Shop
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "174",
+  text = [[
+[Left]  Swamp Of Evil
+         No Entrance
+         No Escape
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "175",
+  text = [[
+This is the Village Of Outcasts.
+People without Rupees are not
+welcome here.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "176",
+  text = [[
+The Waterfall Of Wishing is just
+around the corner.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "177",
+  text = [[
+This way [Right][Up]
+Lake Of Ill Omen
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "178",
+  text = [[
+After Agahnim took over,
+everyone began to act
+strangely.[WaitKey]
+I suppose it's only
+a matter of time before
+I'm affected, too.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "179",
+  text = [[
+Hey hey!  You're not allowed in
+the castle, son!
+Go home and get some sleep!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "180",
+  text = [[
+[Window 2][Name], it is I, Sahasrahla.  I
+can talk to you telepathically
+when you touch these tiles.[WaitKey]
+Here is a hint.  You can use the
+treasure hidden in this palace
+to defeat armored foes.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "181",
+  text = [[
+[Window 2][Name], it is I, Sahasrahla the
+elder.  An orb known as the
+Moon Pearl is in this tower.[WaitKey]
+Whoever holds the Moon Pearl is
+protected so that his form will
+not change in the Dark World.[WaitKey]
+You must find it and escape
+from the tower!
+Don't forget the Moon Pearl[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "182",
+  text = [[
+[ahnk][waves][ahnk][snake][ahnk][waves][ahnk][snake][ahnk][waves][waves][waves][waves][ahnk][snake][ahnk][waves][ahnk][snake]
+[ahnk][snake][ahnk][ahnk][waves][ahnk][snake][ahnk][waves][ahnk][snake]
+[ahnk][waves][ahnk][snake][ahnk][ahnk][waves][ahnk][snake][snake][waves][ahnk][ahnk][snake]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "183",
+  text = [[
+The Hero's triumph on
+Cataclysm's Eve
+Wins three symbols of virtue.[WaitKey]
+The Master Sword he will then
+retrieve,
+Keeping the Knight's line true.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "184",
+  text = [[
+[Window 2][Name], it is I, Sahasrahla.
+You must somehow make your
+way to the top of Spectacle[WaitKey]
+Rock.  From there you can
+reach the Tower of Hera on
+top of Death Mountain.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "185",
+  text = [[
+[Window 2][Name], it is I, Sahasrahla.
+Objects exist simultaneously in
+both worlds with similar shapes.[WaitKey]
+If the form of a thing changes,
+it will affect the shape of its
+twin in the other world.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "186",
+  text = [[
+[Window 2][Name][...]  It's me, Zelda[...]
+Don't be deceived by the magic
+of Blind the Thief!  Be careful!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "187",
+  text = [[
+[Window 2][Name],  it is I, Sahasrahla
+the elder!  You must set fire
+to four torches to open[WaitKey]
+the way forward.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "188",
+  text = [[
+[ahnk][snake][ahnk][waves][ahnk][snake][ahnk][waves][ahnk][waves][ahnk]
+[ahnk][waves][ahnk][snake][ahnk][snake][ahnk][waves][ahnk][snake]
+[ahnk][waves][ahnk][snake][ahnk][snake][ahnk][waves][ahnk][snake][ahnk]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "189",
+  text = [[
+To open the way to go forward,
+Make your wish here
+And it will be granted.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "190",
+  text = [[
+[Window 2]When Ganon is stunned, give
+him his last moment with a
+Silver Arrow![WaitKey]
+Do you understand, [Name]?
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "191",
+  text = [[
+[Window 2][Name], can you hear me?
+It's me, Zelda.  I am locked in
+Turtle Rock on top of Death[WaitKey]
+Mountain.  I know you are doing
+your best, but please hurry[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "192",
+  text = [[
+[Window 2][Name], it is I, Sahasrahla.
+You must never fail to find all
+the treasures in each dungeon.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "193",
+  text = [[
+[Window 2]Listen well, [Name].
+Even with the Master Sword,
+you cannot inflict physical[WaitKey]
+harm on the wizard.
+You must find a way to return
+his own evil magic power to him.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "194",
+  text = [[
+[Window 2][Name], do not use all your
+magic power if you do not
+possess the Medicine Of Magic.[WaitKey]
+Now, get ready to go into the
+depths of this dungeon.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "195",
+  text = [[
+[Window 2][Name], do you possess the
+Medicine of Magic?  If not, I
+recommend against going any[WaitKey]
+further.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "196",
+  text = [[
+[Window 2][Name], the magic flames will
+protect you inside this icy
+dungeon.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "197",
+  text = [[
+[Window 2]You cannot destroy the
+Skeleton Knight with the sword
+alone.  When he collapses, he is[WaitKey]
+vulnerable to another weapon.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "198",
+  text = [[
+[Window 2][Name], it is I, Sahasrahla the
+elder.  I have some advice[...]
+In the dungeons, you can gaze[WaitKey]
+into the Magic Mirror to return
+to the entrance at any time.
+Do not forget this!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "199",
+  text = [[
+My name is Chris Houlihan.
+This is my top secret room.
+Keep it between us, OK?
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "200",
+  text = [[
+You caught a bee![WaitKey]
+What will you do?
+    > Keep it in a bottle
+       Set it free[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "201",
+  text = [[
+You caught a faerie![WaitKey]
+What will you do?
+    > Keep it in a bottle
+       Set it free[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "202",
+  text = [[
+You don't have any empty
+bottles.  You have no choice[...]
+Just set it free.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "203",
+  text = [[
+This try your time was
+[Number 3][Number 2] minutes [Number 1][Number 0] seconds.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "204",
+  text = [[
+If you can reach the goal
+within 15 seconds, we will give
+you something good.[WaitKey]
+Ready, Set[...] [...]  GO!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "205",
+  text = [[
+You qualified!
+Congratulations!
+I present you with a piece of[WaitKey]
+Heart!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "206",
+  text = [[
+You're not qualified.
+Too bad!
+Why don't you try again?
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "207",
+  text = [[
+I don't have anything more to
+give you.
+I'm sorry!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "208",
+  text = [[
+You have to enter the maze
+from the proper entrance or I
+can't clock your time[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "209",
+  text = [[
+You, sir!  Have you been going
+through life without one of my
+hold-anything bottles?[WaitKey]
+Well step right up and make
+your life complete!  I've got
+one on sale now for the low,[WaitKey]
+low price of 100 Rupees![WaitKey]
+What do you say?  Interested?
+    > I'll take one
+       Don't need it[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "210",
+  text = [[
+Good buy!  Thanks a lot!
+Now, hold it above your head
+for the whole world to see, OK?[WaitKey]
+It's good for business!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "211",
+  text = [[
+So you're broke, eh?  Too bad[...]
+Come back after you earn more
+Rupees.  It might still be here.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "212",
+  text = [[
+I'm all sold out of bottles.
+Come back later, OK? 
+ [...] [...] [...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "213",
+  text = [[
+Wow!  I've never seen such a
+rare bug!  I'll buy it for
+100 Rupees, OK?  Done!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "214",
+  text = [[
+Hey!  They say eating fish
+makes you smart.  You have to
+give me this fish for this[WaitKey]
+stuff, OK?  Done!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "215",
+  text = [[
+Yo!  [Name]! You seem to be in
+a heap of trouble, but this is
+all I can give you.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "216",
+  text = [[
+Hey you!
+Welcome!
+[WaitKey]
+Ask us to do anything!
+    > Temper my sword
+       I just dropped by[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "217",
+  text = [[
+I'll give you a big discount!
+    >Sword Tempered[...] 10 Rupees
+      Wait a minute[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "218",
+  text = [[
+Tempered, eh?  Are you sure?
+    > Yes
+       I changed my mind[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "219",
+  text = [[
+Well, we can't make it any
+stronger than that[...] Sorry!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "220",
+  text = [[
+Drop by again anytime you
+want to.  Hi ho!  Hi ho!
+We're off to work!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "221",
+  text = [[
+All right, no problem.
+We'll have to keep your sword
+for a while.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "222",
+  text = [[
+Your sword is tempered-up!
+Now hold it!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "223",
+  text = [[
+If my lost partner returns,
+we can temper your sword,
+but now, I can't do[WaitKey]
+anything for you.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "224",
+  text = [[
+Oh!  Happy days are here again!
+You found my partner!
+[...]  We are very happy now[...][WaitKey]
+Drop by here again!
+At that time, we will temper
+your sword perfectly!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "225",
+  text = [[
+Ribbit ribbit[...]  Your body did
+not change!  You are not just
+an ordinary guy, are you?[WaitKey]
+I used to live in Kakariko Town.
+I wonder what my partner is
+doing there without me[...][WaitKey]
+Ribbit!  I have a request of
+you.
+Please take me to my partner![WaitKey]
+Please!  Ribbit!  Please!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "226",
+  text = [[
+I'm sorry, we're not done yet.
+Come back after a while.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "227",
+  text = [[
+Thank you!
+
+Thank you!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "228",
+  text = [[
+Hey hey, amateurs shouldn't
+try to do this.  You're just
+getting in the way!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "229",
+  text = [[
+After wandering into this world
+I turned into this shape.
+[...]  [...]  [...][WaitKey]
+I enjoyed playing the flute in
+the original world[...]
+[...]  [...]  [...][WaitKey]
+There was a small grove where
+many animals gathered.  I want
+to see that place again[...][WaitKey]
+I buried my flute there with
+some flower seeds.
+[WaitKey]
+Will you try to find it for me?
+    > Yes
+       No way[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "230",
+  text = [[
+Then I will lend you my shovel.
+Good luck!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "231",
+  text = [[
+[...]  [...]  [...]
+I see.  I won't ask you again[...]
+Good bye.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "232",
+  text = [[
+Did you find my flute?
+[...]  [...]  [...]
+Please keep looking for it[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "233",
+  text = [[
+Thank you, [Name].  But it
+looks like I can't play my flute
+any more.  Please take it.[WaitKey]
+If by chance you go to the
+village I lived in, please give
+it to a tired old man you will[WaitKey]
+find there.
+[...]  [...]  [...]
+Well,  my mind is getting[WaitKey]
+hazy[...]
+Please let me hear the sound of
+the flute one last time[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "234",
+  text = [[
+[Position 1]Hocus pocus!
+You will find the elder
+Sahasrahla[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "235",
+  text = [[
+[Position 1]Abracadabra alakazam!
+You will open a desert lock with
+the Book of Mudora.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "236",
+  text = [[
+[Position 1]Hocus pocus!
+You will find a member of the
+wise men's line in the desert.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "237",
+  text = [[
+[Position 1]Abracadabra alakazam!
+You will find a mushroom lover
+at the Magic Shop[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "238",
+  text = [[
+[Position 1]Hocus pocus!
+You will meet Zora living in a
+lake at the river's source[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "239",
+  text = [[
+[Position 1]Abracadabra alakazam!
+The true Hero will find the
+Moon Pearl in the[WaitKey]
+mountain tower.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "240",
+  text = [[
+[Position 1]Hocus pocus!
+Even the mighty Master Sword
+cannot harm the wizard's body.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "241",
+  text = [[
+[Position 1]Abracadabra alakazam!
+The true Hero will jump into the
+well near the smithy's shop.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "242",
+  text = [[
+[Position 1]Well, I have to say my condition
+isn't very good today.  But I
+want you to come back again[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "243",
+  text = [[
+[Position 1]Hmmm[...]  You look like you might
+have an interesting destiny[...]
+May I tell your fortune?[WaitKey]
+I'll make it cheap[...]
+    > Ask him to tell it
+       Not interested[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "244",
+  text = [[
+[Position 1]Now I will take [Number 0][Number 1] Rupees.
+I hope you will be healthy.
+Yeehah ha hah!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "245",
+  text = [[
+[Position 1]It is indeed a poor man who is
+not interested in his future[...]
+I'll be waiting for your return.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "246",
+  text = [[
+[Position 1]Hocus pocus!
+You will meet a strange man
+standing in the desert[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "247",
+  text = [[
+[Position 1]Abracadabra alakazam!
+The gossip shop in the Dark
+World has treasure for the[WaitKey]
+asking[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "248",
+  text = [[
+[Position 1]Hocus pocus!
+You will find the smith's
+partner in the[WaitKey]
+Village Of Outcasts.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "249",
+  text = [[
+[Position 1]Abracadabra alakazam!
+You will find a treasure resting
+in peace in the graveyard.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "250",
+  text = [[
+[Position 1]Hocus pocus!
+You will buy a new kind of bomb
+in the Bomb Shop.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "251",
+  text = [[
+[Position 1]Abracadabra alakazam!
+You will find something inside
+the pyramid of the Dark World.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "252",
+  text = [[
+[Position 1]Hocus pocus!
+You will run into a barrier if
+you try to enter[WaitKey]
+Ganon's tower.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "253",
+  text = [[
+[Position 1]Abracadabra alakazam!
+You will need Silver Arrows to
+give Ganon his last moment.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "254",
+  text = [[
+Hey!  I'll tell you a profitable
+story if you pay me 20 Rupees.[WaitKey]
+How about it?
+    > Pay Rupees
+       Don't want to hear it[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "255",
+  text = [[
+Hah!  Thank you.  They say
+there is a tiny circle of rocks
+in the lake at the source of[WaitKey]
+the river.  I don't know what
+will happen, but it might be fun
+to throw something into it[...][WaitKey]
+Heh heh.  See you[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "256",
+  text = [[
+Heh heh.  I see.  I'm not
+interested in talking to people
+who don't have Rupees[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "257",
+  text = [[
+Heh heh.  Thank you.  To tell
+you the truth, I used to be a
+thief in the Light World[...][WaitKey]
+some of my fellow thieves went
+into hiding because they were
+afraid of being caught.[WaitKey]
+One of them was a master
+locksmith, but now he is hiding
+the fact that he was a thief[...][WaitKey]
+[...]by pretending to be a
+strange middle-aged guy!
+Ha ha ha[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "258",
+  text = [[
+Hah!  Thank you.  To tell you
+the truth, I found incredible
+beauty inside the pyramid,[WaitKey]
+but someone sealed the door.
+You can't do anything with a
+standard bomb, they say[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "259",
+  text = [[
+Heh heh.  Thank you.  As a
+matter of fact, monster magic
+is making it rain in the swamp.[WaitKey]
+If you can move the air with
+more force than the monsters,
+the rain may stop.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "260",
+  text = [[
+Sniffle[...] Hey brother [Name]!
+Do you have a bottle to keep
+a bug in?[WaitKey]
+[...]
+I see.  You don't have one[...]
+Cough cough[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "261",
+  text = [[
+I can't go out 'cause I'm sick[...]
+Cough cough[...]
+People say I caught this cold[WaitKey]
+from the evil air that is coming
+down off the mountain[...]
+Sniff sniff[...][WaitKey]
+This is my bug-catching net.
+I'll use it when I'm better, but
+for now, I'll lend it to you.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "262",
+  text = [[
+Sniffle[...] I hope I get well
+soon[...]
+Cough cough[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "263",
+  text = [[
+[...]  [...]  [...]  [...]  [...]  [...]
+[...]  [...]  [...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "264",
+  text = [[
+Why did you take my sign?  It
+says plain as day to just leave
+me alone!  Sheeesh!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "265",
+  text = [[
+I heard that you know I used to
+be a thief, right?
+[WaitKey]
+Well, I'll open a chest for you.
+Will you keep it secret from
+everyone else?[WaitKey]
+Would you please promise ?
+    > Promise not to tell
+       Tell it to everyone[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "266",
+  text = [[
+OK, if that's the way you want
+it, I hope you drag that chest
+around forever!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "267",
+  text = [[
+Remember, you promised[...]
+Don't tell anyone.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "268",
+  text = [[
+All right, bring that chest over
+here[...]  Seriously, keep this a
+secret from everyone.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "269",
+  text = [[
+[waves][snake][waves][snake][waves][snake][waves][snake][waves][snake][waves][waves][waves][snake]
+[waves][ahnk][snake][snake][ahnk][waves][ahnk][snake][waves][ahnk][snake][waves][ahnk][snake][waves][ahnk]
+[waves][snake][waves][snake][waves][snake][waves][ahnk][waves][ahnk]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "270",
+  text = [[
+Hold up the Master Sword and
+you will get the magic of
+Ether.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "271",
+  text = [[
+Hold up the Master Sword and
+you will get the magic of
+Bombos.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "272",
+  text = [[
+Hey!  Blast you for waking me
+from my deep, dark sleep!
+[...]I mean, thanks a lot, sir![WaitKey]
+But now I will get my revenge
+on you.  Get ready for it!
+[...]Err, is that OK with you,[WaitKey]
+sir?
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "273",
+  text = [[
+Heh heh heh!  I laugh at your
+misfortune!  Now your magic
+power will drop by one half![WaitKey]
+Congratulations!
+Now, do your best, even though
+I'm sure it won't be enough![WaitKey]
+Have a nice day!  See you!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "274",
+  text = [[
+[ScrollSpd 0][Color 7][Speed 3][Window 2][NextPic]Long ago, in the beautiful
+kingdom of Hyrule surrounded
+by mountains and forests[...][Wait 9]
+legends told of an omnipotent
+and omniscient Golden Power
+that resided in a hidden land.[Wait 9][NextPic][NextPic]
+Many people aggressively
+sought to enter the hidden
+Golden Land[...][Wait 7]
+But no one ever returned.
+One day evil power began to
+flow from the Golden Land[...][Wait 7]
+So the King commanded seven
+wise men to seal the gate to
+the Land of the Golden Power.[Wait 9][NextPic][NextPic]
+That seal should have remained
+for all time[...]
+[Wait 9][NextPic][NextPic]
+[...]  [...]But, when these events
+were obscured by the mists of
+time and became legend[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "275",
+  text = [[
+[Window 2][Color 7][Speed 3]
+A mysterious wizard known as
+Agahnim came to Hyrule to
+release the seal.  He eliminated[Wait 5]
+the good King of Hyrule[...][Wait 5]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "276",
+  text = [[
+[Window 2][Color 7][Speed 3]
+Through evil magic, he began
+to make descendants of the
+seven wise men vanish, one[Wait 5]
+after another.[Wait 5]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "277",
+  text = [[
+[Window 2][Color 7][Speed 3]
+And the time of destiny for
+Princess Zelda is drawing
+near.[Wait 5]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "278",
+  text = [[
+Because the key is locked
+inside this chest, you can
+never open it.[WaitKey]
+Just take it with you.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "279",
+  text = [[
+100 Rupees for 30 Bombs!  30
+Bombs for just 100 Rupees!
+Please buy 'em, mister!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "280",
+  text = [[
+100 Rupees for 30 Bombs!  I also
+have a new Super Bomb in stock
+for only 100 Rupees!  Please[WaitKey]
+buy it too, mister!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "281",
+  text = [[
+Thank you very much.
+Thank you very much.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "282",
+  text = [[
+Thank you very much.  You can
+drop this Bomb off anywhere.
+(Press the [A] Button.)[WaitKey]
+Please don't forget it.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "283",
+  text = [[
+Ki ki ki!  If you give me 100
+Rupees,  I will open the
+entrance for you.  Ki ki ki![WaitKey]
+  What will you do?
+    > Ask him to open it
+       Try to open it yourself[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "284",
+  text = [[
+Ki ki ki!  Hmph!
+Do it yourself, then!
+Kik ki ki!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "285",
+  text = [[
+Ki ki!  Good choice!  Then I get
+100 of your Rupees.  Kik ki ki!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "286",
+  text = [[
+I'm Kiki the monkey ki ki!
+I love Rupees more than
+anything.  Can you spare me[WaitKey]
+10 Rupees?[WaitKey]
+ What will you do?
+    > Give him 10 Rupees
+       Never give him anything[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "287",
+  text = [[
+Ki ki ki ki!  Good choice!  I
+will accompany you for a while.
+Kik kiki!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "288",
+  text = [[
+Ki ki!  Harumph!  I have no
+reason to talk to you, then.
+Bye bye!  Kik ki ki!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "289",
+  text = [[
+Ki ki?  What are you doing?
+I don't want to go there!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "290",
+  text = [[
+Ohh, thank you very much!
+You saved my life.  Please take
+me outside.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "291",
+  text = [[
+Gyaaah!
+Too bright!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "292",
+  text = [[
+Err[...]  Wait a minute[...]
+Please don't go this way.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "293",
+  text = [[
+I am Aginah.  I sense something
+is happening in the Golden Land
+the seven wise men sealed[...][WaitKey]
+This must be an omen of the
+Great Cataclysm foretold by
+the people of Hylian blood[...][WaitKey]
+[...] [...] [...]
+The prophecy says, "The Hero
+will stand in the desert holding[WaitKey]
+the Book Of Mudora."
+If you have the Book Of Mudora
+you can read the language of[WaitKey]
+the Hylia People.
+It should be in the house of
+books in the village[...][WaitKey]
+You must get it!
+If you are the person who will
+be The Hero[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "294",
+  text = [[
+You have collected the three
+Pendants.
+If you are indeed the Hero who[WaitKey]
+has Wisdom, Courage and Power,
+the Master Sword sleeping in
+the forest will be yours.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "295",
+  text = [[
+Aha!  It is the Book Of Mudora.
+With it, you can read the
+language of the Hylia people.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "296",
+  text = [[
+You are the true Hero[...]
+I believe that you will return
+peace to this land again.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "297",
+  text = [[
+Your trial in the desert has
+made you stronger.  The blood
+of the Hero must be in your[WaitKey]
+veins[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "298",
+  text = [[
+Was it you who disturbed my
+peaceful nap?  I will give this
+to you if you go away!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "299",
+  text = [[
+I don't have any more good
+presents for you.  Take this
+instead, pest!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "300",
+  text = [[
+Yo [Name]!  A mysterious fog
+has recently fallen over the
+forest.  We have to be careful!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "301",
+  text = [[
+Maybe it's nothing, but this
+tree feels kind of strange as
+we cut it[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "302",
+  text = [[
+Yo!  The fog in the forest is
+clearing.  Thank you!  We can
+go there again!  Hey brother!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "303",
+  text = [[
+Yeah [Name], now I'm
+quarreling with my younger
+brother.  I sealed the door to[WaitKey]
+his room.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "304",
+  text = [[
+So the doorway is open again[...]
+OK OK, maybe I should make up
+with my brother[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "305",
+  text = [[
+Hey [Name], did you come from
+my older brother's room?  Is he
+still angry?
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "306",
+  text = [[
+[Speed 2][Position 1][Window 2][Name], because of you,  I can
+escape from the clutches of
+the evil monsters.  Thank you![WaitKey]
+[...]This world used to be the
+Golden Land where the Triforce
+was hidden.[WaitKey]
+But because Ganon, the boss
+of thieves, wished it the world
+was transformed[...][WaitKey]
+I'm sure he's intending to
+conquer even our Light World
+after building his power here.[WaitKey]
+He is trying to open a larger
+gate between worlds near the
+castle using our powers.[WaitKey]
+But the gate is not open
+completely yet[...]
+If we seven maidens come[WaitKey]
+together, we can break the
+barrier around Ganon's hiding
+place.[WaitKey]
+I will tell you where the other
+girls are held.  I believe you
+will destroy Ganon.[WaitKey]
+I will return to my original
+form at that time.
+ [...] [...] [...] [...] [...][Sound 2D]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "307",
+  text = [[
+[Speed 2][Position 1][Window 2][Name], because of you, I can
+escape from the clutches of
+the evil monsters.  Thank you![WaitKey]
+[...]The Triforce will grant the
+wishes of whoever touches it,
+as long as that person lives[...][WaitKey]
+That is why it was hidden in
+the Golden Land.  Only a select
+few knew of its location,[WaitKey]
+but at some point that
+knowledge was lost[...]
+The person who rediscovered[WaitKey]
+the Golden Land was
+Ganondorf the evil thief.
+Luckily, he couldn't figure out[WaitKey]
+how to return to the Light
+World[...]
+[...]Well, remember that you[WaitKey]
+have magical powers, which only
+The Hero can make the most of!
+There are some other magical[WaitKey]
+warping points like the one you
+saw on Death Mountain.
+By using them you can go[WaitKey]
+between the two worlds and
+find the evils hidden in the
+Dark World.  You are the only[WaitKey]
+one who can destroy
+Ganondorf, the thief-no,
+Ganon, the evil King Of[WaitKey]
+Darkness!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "308",
+  text = [[
+[Speed 2][Position 1][Window 2][Name], because of you, I can
+escape from the clutches of
+the evil monsters.  Thank you![WaitKey]
+[...]Do you know the prophecy of
+the Great Cataclysm?
+This is the way I heard it[...][WaitKey]
+If a person who has an evil
+heart gets the Triforce, a Hero
+is destined to appear[...][WaitKey]
+[...]and he alone must face the
+person who began the Great
+Cataclysm.[WaitKey]
+If the evil one destroys the
+Hero, nothing can save the
+world from his wicked reign.[WaitKey]
+Only a person of the Knights Of
+Hyrule, who protected the
+royalty of Hylia, can become[WaitKey]
+the Hero[...]  You are of their
+blood-line, aren't you?  Then
+you must rescue[WaitKey]
+Zelda without fail.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "309",
+  text = [[
+[Speed 2][Position 1][Window 2][Name], because of you, I can
+escape from the clutches of
+the evil monsters.  Thank you![WaitKey]
+As the wise men sealed the way
+to the Dark World, the Knights
+Of Hyrule defended them from[WaitKey]
+the attacks of evil monsters.[WaitKey]
+I heard that the Knights Of
+Hyrule were nearly wiped out in
+that battle[...][WaitKey]
+You are perhaps the last one
+to carry on the blood-line of
+the Knights[...][WaitKey]
+It is ironic that the last one in
+the line has the potential to
+become the Hero of legend.[WaitKey]
+Surely you can destroy Ganon!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "310",
+  text = [[
+[Speed 2][Position 1][Window 2][Name], because of you, I can
+escape from the clutches of
+the evil monsters.  Thank you![WaitKey]
+They say the Hylia people
+controlled mysterious powers,
+as did the seven wise men.[WaitKey]
+But the blood of the Hylia has
+become thin over time.  We who
+carry the blood of the seven[WaitKey]
+wise men do not possess strong
+power any more, either.[WaitKey]
+Our powers will increase if we
+mix the courage of the Knights
+with the wisdom of the wise[WaitKey]
+men.  Only a short time remains
+until the gate at the castle
+linking the worlds opens[WaitKey]
+completely.  If you defeat
+Ganon, this world will vanish
+and the Triforce will wait for[WaitKey]
+a new holder.
+I believe in you[...]
+Good luck!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "311",
+  text = [[
+[Speed 2][Position 1][Window 2][Name], because of you, I can
+escape from the clutches of
+the evil monsters.  Thank you![WaitKey]
+Ganon captured us because he
+couldn't break the seal of the
+wise men with his power alone.[WaitKey]
+And then, using the wizard
+Agahnim as his pawn, he drew us
+to the Dark World.[WaitKey]
+After cracking the seal with
+our powers, he sealed us inside
+of these crystals.[WaitKey]
+He then gave us to his loyal
+monsters.  But Ganon didn't
+plan on your getting this far.[WaitKey]
+Now, Princess Zelda is waiting
+for you inside of Turtle Rock.
+Please hurry!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "312",
+  text = [[
+[Speed 2][Position 1][Window 2]I appreciate your coming so far
+to rescue me.  As I thought,
+you are the legendary Hero.[WaitKey]
+I have felt this from the first
+time we met.
+[...]  [...]  [...][WaitKey]
+Ganon is waiting inside of his
+tower to pass through the
+gate linking the two worlds.[WaitKey]
+Once Ganon enters the Light
+World, it is unlikely that
+anyone can stop him.[WaitKey]
+But if he stays in the closed
+space of this world, you can
+find him wherever he runs.[WaitKey]
+Now, go to the Tower Of
+Ganon!  We will use our
+combined powers to break the[WaitKey]
+barrier.  Let's return peace to
+the country without fail[...]
+[...]  [...]  [...][Sound 2D]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "313",
+  text = [[
+[Speed 2][Position 1][Window 2]May the way of the Hero lead
+to the Triforce.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "314",
+  text = [[
+[Speed 2][Position 1][Window 2]Do you understand?
+    >  Yes
+        Not at all[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "315",
+  text = [[
+[Name], we are going to break
+the barrier of Ganon's Tower
+with our power.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "316",
+  text = [[
+[Speed 2][Position 1][Window 2]I appreciate your coming so far
+to rescue me.  As I thought,
+you are the legendary Hero.[WaitKey]
+I have felt this from the first
+time we met.
+[...]  [...]  [...][WaitKey]
+Ganon is waiting inside of his
+tower to pass through the
+gate linking the two worlds.[WaitKey]
+Once Ganon enters the Light
+World, it is unlikely that
+anyone can stop him.[WaitKey]
+But if he stays in the closed
+space of this world, you can
+find him wherever he runs.[WaitKey]
+Some maidens still need your
+help, though.  Once you rescue
+them all, go to Ganon's Tower.[WaitKey]
+We who are of the blood-line of
+the wise men will then use our
+power to break[WaitKey]
+Ganon's barrier!  
+[Name][...]  You must return
+peace to this country[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "317",
+  text = [[
+Ahah[...] [Name]!
+I have been waiting for you!
+Heh heh heh[...][WaitKey]
+I was hoping I could make Zelda
+vanish in front of your eyes.
+Behold!  The last moment of[WaitKey]
+Princess Zelda!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "318",
+  text = [[
+Ho ho ho[...]  With this, the
+seal of the seven wise men is
+at last broken.[WaitKey]
+It is now only a matter of time
+before evil power covers this
+land[...][WaitKey]
+After all, the legendary Hero
+cannot defeat us, the tribe of
+evil, when we are armed with[WaitKey]
+the Power of Gold.
+Ho ho ho[...] Now, I must go!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "319",
+  text = [[
+Oh, so?[...]  You mean to say you
+would like to be totally
+destroyed?  Well, I can make[WaitKey]
+your wish come true!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "320",
+  text = [[
+Grrrrugh!  Well met!  Like the
+true Hero that you are[...]
+But I am not ready to admit[WaitKey]
+defeat yet.  I will draw you
+into the Dark World!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "321",
+  text = [[
+Ho ho ho!  It's great that you
+could come all the way here,
+[Name].[WaitKey]
+I'm very happy to see you
+again, but
+you'd better believe that we[WaitKey]
+will not have a third meeting!
+Prepare to meet your doom!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "322",
+  text = [[
+Wah ha ha!  What do you want,
+little man?  Do you have
+something to ask me?[WaitKey]
+    >  I want the flippers
+        I just dropped by[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "323",
+  text = [[
+Wah ha ha!  But I don't just
+give flippers away for free.
+I sell them for 500 Rupees a[WaitKey]
+pair.[WaitKey]
+What do you do?
+    >  Pay 500 Rupees
+        Quit after all[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "324",
+  text = [[
+Wah ha ha!  One pair of
+flippers coming up.  I will
+give you a free bonus with[WaitKey]
+your purchase.
+I will let you use the magic
+water ways of the sea folk[WaitKey]
+which link lakes and rivers.
+When you see a whirlpool, dive
+into it.  You never know where[WaitKey]
+you'll surface!  Wah ha ha!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "325",
+  text = [[
+Wade back this way when you
+have more Rupees[...]
+Wah ha ha!  I'll see you again!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "326",
+  text = [[
+Great!  Whenever you want to
+see my fishy face, you are
+welcome here.[WaitKey]
+[...]
+Wah ha ha!  Good bye[...]!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "327",
+  text = [[
+Hi [Name]!
+Elder?  Are you talking about
+the grandpa?  OK,  but don't[WaitKey]
+tell any of the bad people
+about this.
+He's hiding in the palace past[WaitKey]
+the castle.
+I will mark the spot on your
+map.  Here you are[...][Sound 2D]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "328",
+  text = [[
+Did you meet the grandpa?  If
+all the bad people go away, he
+can come back to the village.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "329",
+  text = [[
+You're new here, aren't you?
+Did you come here looking for
+the Power Of Gold?[WaitKey]
+Well, you're too late.  It will
+obey only the first person who
+touches it.[WaitKey]
+The man who last claimed the
+Power Of Gold wished for this
+world.  It reflects his heart.[WaitKey]
+Yes, I came here because of
+greed for the Golden Power,
+and look what happened to me[...] [WaitKey]
+To restore the Golden Land, a
+person worthy of the Golden
+Power must defeat the man who[WaitKey]
+created this place[...]
+Until that time, I am stuck in
+this bizarre shape.[WaitKey]
+But what a mischievous thing
+to leave lying around[...]
+The Power Of Gold[...][WaitKey]
+Triforce[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "330",
+  text = [[
+     -Mysterious Pond-
+Won't you throw something in?
+[WaitKey]
+What will you do?
+    > Throw an item
+       Don't try it[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "331",
+  text = [[
+Don't do it!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "332",
+  text = [[
+Don't do it!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "333",
+  text = [[
+I will give this back to you
+then.  Don't drop it again.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "334",
+  text = [[
+How many Rupees will you toss?
+    > [Number 1][Number 0] Rupees
+       [Number 3][Number 2] Rupees[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "335",
+  text = [[
+You are an honest person.
+I like you.
+I will give you something[WaitKey]
+important[...]
+These are the Silver Arrows.
+To give Ganon his last[WaitKey]
+moment, you definitely need
+them!  I know I don't quite have
+the figure of a faerie.[WaitKey]
+Ganon's cruel power
+is to blame!
+You must defeat Ganon!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "336",
+  text = [[
+
+   Great Luck.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "337",
+  text = [[
+
+   Good Luck.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "338",
+  text = [[
+
+   A Little Luck.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "339",
+  text = [[
+
+   Big Trouble.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "340",
+  text = [[
+For your reference, today you
+will have
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "341",
+  text = [[
+You found a piece of Heart!
+                 [1HeartL][1HeartR]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "342",
+  text = [[
+You found a piece of Heart!
+                 [2HeartL][1HeartR]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "343",
+  text = [[
+You found a piece of Heart!
+                 [3HeartL][3HeartR]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "344",
+  text = [[
+You found a piece of Heart!
+                 [4HeartL][4HeartR]
+Your Heart level increased!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "345",
+  text = [[
+You found a Heart Container!
+                 [4HeartL][4HeartR]
+Your Heart level increased!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "346",
+  text = [[
+I will sooth your wounds and
+comfort your weariness[...]
+Close your eyes and relax[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "347",
+  text = [[
+Oh?  Who are you, Mr. Bunny?
+This world is like the real
+world, but evil has twisted it.[WaitKey]
+The Golden Power is what
+changed your shape to reflect
+what is in your heart and mind.[WaitKey]
+I am always changing my mind,
+so I turned into a ball[...]
+But if you have a ball called[WaitKey]
+the Moon Pearl, you can keep
+your original shape here.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "348",
+  text = [[
+You didn't change your shape?
+You aren't just a normal guy,
+are you?
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "349",
+  text = [[
+What do you want?!
+Do you have something to say
+to me, silly rabbit?![WaitKey]
+I came here to get the Power
+Of Gold but now I'm a freak and
+I can't go back to the real[WaitKey]
+world!  If I only had the Moon
+Pearl from the Tower Of Hera, I
+could go back to my original[WaitKey]
+shape!  I've got good reason
+to be stressed out!
+So back off!  Shoo shoo!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "350",
+  text = [[
+WOW!  Your shape didn't change!
+You got the Moon Pearl, huh?
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "351",
+  text = [[
+In such a dangerous world you
+may need many things.  Select
+something that you like[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "352",
+  text = [[
+Hi, may I help you?  You can
+open two chests for 30 Rupees.
+Why don't you play?[WaitKey]
+What will you do?
+    > Play here
+       Maybe next time[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "353",
+  text = [[
+Well, come back and play some
+time.  I'll be waiting for you.
+Until then, good bye!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "354",
+  text = [[
+Hey kid!
+You can open a chest after
+paying Rupees!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "355",
+  text = [[
+You can't open any more
+chests.  The game is over.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "356",
+  text = [[
+All right, kid.
+Choose well!  Good luck!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "357",
+  text = [[
+May I help you?  Select the
+thing you like (Press the [A]
+Button).  Prices as marked!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "358",
+  text = [[
+You don't need that item[...]
+Why not select something else?
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "359",
+  text = [[
+Thank you very much.
+Whenever you lose your shield,
+come back here again.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "360",
+  text = [[
+Thank you very much.
+This is the Medicine of Life.
+It helps you recover your Life.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "361",
+  text = [[
+Thank you very much.
+These are Arrows.  You can't
+use them without a Bow.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "362",
+  text = [[
+These are Bombs.
+Did you know you can pick up
+a Bomb you already placed ?[WaitKey]
+(Press the [A] Button).
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "363",
+  text = [[
+Thank you very much.
+That is a Bee.  Don't ask me
+what it is used for, either.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "364",
+  text = [[
+Thank you very much.
+You can recover one Heart.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "365",
+  text = [[
+No no no[...]  I can't sell the
+merchandise because you don't
+have an empty bottle.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "366",
+  text = [[
+You can't carry any more
+now, but you may need
+some later!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "367",
+  text = [[
+I never imagined a boy like you
+could give me so much trouble.
+It's unbelievable that you[WaitKey]
+defeated my alterego, Agahnim
+the Dark Wizard, twice![WaitKey]
+But I will never give you the
+Triforce.  I will destroy you
+and make my wish to conquer[WaitKey]
+both Light and Dark Worlds
+come true without delay.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "368",
+  text = [[
+You are doing well, lad.  But
+can you break through this
+secret technique of Darkness?[WaitKey]
+En Garde!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "369",
+  text = [[
+Hey kid, this is a secret hide-
+out for a gang of thieves!
+Don't enter without permission![WaitKey]
+By the way, I heard that one
+of our ex-members is staying
+at the entrance to the Desert.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "370",
+  text = [[
+Yo [Name]!  This house used
+to be a hideout for a gang of
+thieves.[WaitKey]
+What was their leader's name[...]
+Oh yeah, his name was Blind and
+he hated bright light a lot.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "371",
+  text = [[
+[Speed 2][Position 0][Window 2]Welcome, [Name][...]
+I   am   the   Essence   Of   The
+Triforce.[WaitKey]
+[...]   [...]   [...][Speed 1][WaitKey]
+                                          
+                                          
+                                          [Speed 2]
+The Triforce will grant the
+wishes in the heart and mind of
+the person who touches it.[Speed 1][WaitKey]
+                                          
+                                          
+                                          [Speed 2]
+If a person with a good heart
+touches it, it will make his good
+wishes come true[...]  If an evil-[WaitKey]
+hearted person touches it, it
+grants his evil wishes.[Speed 1][WaitKey]
+                                          
+                                          
+                                          [Speed 2]
+The stronger the wish, the
+more powerful the Triforce's
+expression of that wish.[Speed 1][WaitKey]
+                                          
+                                          
+                                          [Speed 2]
+Ganon's wish was to conquer
+the world.  That wish changed
+the Golden Land to the Dark[WaitKey]
+World.[Speed 1][WaitKey]
+                                          
+                                          
+                                          [Speed 2]
+Ganon was building up his
+power here so he could conquer
+the Light World and make his[WaitKey]
+wish come completely true.[Speed 1][WaitKey]
+                                          
+                                          
+                                          [Speed 2]
+But now, you have totally
+destroyed Ganon.  His Dark
+World will vanish.[Speed 1][WaitKey]
+                                          
+                                          
+                                          [Speed 2]
+The Triforce is waiting for a
+new owner.  Its Golden Power is
+in your hands[...][Speed 1][WaitKey]
+                                          
+                                          
+                                          [Speed 2]
+Now, touch it with a wish in
+your heart.
+[...]  [...]  [...]  [...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "372",
+  text = [[
+All right! Take it, thief!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "373",
+  text = [[
+Whoa[...]  I saw her.
+A very nice young lady at the
+Waterfall Of Wishing in the[WaitKey]
+hills where the river
+begins[...]
+[Name], you should meet her[WaitKey]
+at least once.  I'm sure you will
+like her.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "374",
+  text = [[
+Take some Rupees, but don't
+tell anyone I gave them to you.
+Keep it between us, OK?
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "375",
+  text = [[
+Check out the cave east of
+Lake Hylia.  Strange and
+wonderful things live in it[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "376",
+  text = [[
+You can earn a lot of Rupees
+by defeating enemies.  It's
+the secret of my success[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "377",
+  text = [[
+[Name], did you know that if
+you destroy frozen enemies
+with the Hammer, you will often[WaitKey]
+get a Magic Decanter?
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "378",
+  text = [[
+Tra la la, look for
+Sahasrahla.
+[...]  [...]  [...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "379",
+  text = [[
+Oh yah, you found Sahasrahla!
+[...]  [...]  [...]
+Good job la la!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "380",
+  text = [[
+I'm sorry, but you don't
+seem to have enough Rupees[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "381",
+  text = [[
+Cluck cluck[...]  What?!
+You turned me into a human.
+I can even speak![WaitKey]
+Aha, it must be you who is
+always teasing my friends.
+The Weathercock is always[WaitKey]
+watching you harass them.
+Well, this human shape is
+uncomfortable for me.[WaitKey]
+Ahhh, I want to be a chicken
+again!  Cluck cluck[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "382",
+  text = [[
+Pay me 20 Rupees and I'll let
+you open one chest.  You can
+keep what is inside.[WaitKey]
+What will you do?
+    >  Open A Chest
+        Escape[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "383",
+  text = [[
+All right!  Open the chest you
+like!
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "384",
+  text = [[
+Oh, I see[...]  Too bad.
+Drop by again after collecting
+Rupees.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "385",
+  text = [[
+For 100 Rupees, I'll let you
+open one chest and keep the
+treasure that is inside.[WaitKey]
+What will you do?
+    >  Open A Chest
+        Escape[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "386",
+  text = [[
+Hi, [Name].  Sorry about my
+yard.  It's a little over
+grown.  Thanks for visiting.[WaitKey]
+I'm glad to have company to
+talk to.  I will tell you an
+interesting story.[WaitKey]
+There is a lake swimming with
+Zoras at the source of the
+river, but it is hard to find.[WaitKey]
+The treasure of Zora can turn
+people into fish.  Heh heh heh.
+I'd love to see that.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "387",
+  text = [[
+I haven't had a chance to trim
+my hedges recently.  Thanks
+for visiting anyway[...][WaitKey]
+A while ago, there was a boy in
+this village who could talk to
+animals with his Flute.[WaitKey]
+He had a pet bird that flew
+with him everywhere, but
+he went to the mountain and[WaitKey]
+never returned.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "388",
+  text = [[
+[Position 0][Speed 0]>Start From [Name]'s House
+  Start From Sanctuary[Choose3]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "389",
+  text = [[
+[Position 0][Speed 0]>Start From [Name]'s House
+  Start From Sanctuary
+  Start From The Mountain Cave[Choose2]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "390",
+  text = [[
+[Speed 0]> Continue Game
+   Save and Quit[Choose3]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "391",
+  text = [[
+Welcome to the treasure field.
+The object is to dig as many
+holes as you can in 30 seconds.[WaitKey]
+Any treasures you dig up will
+be yours to keep.
+It's only 80 Rupees to play.[WaitKey]
+What do you say?
+    > I want to dig
+       I don't want to dig[Choose]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "392",
+  text = [[
+Then I will lend you a shovel.
+When you have it in your hand,
+start digging! (Press the[WaitKey]
+[Y] Button to dig.)
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "393",
+  text = [[
+I see.  Then I give up.  Save
+some Rupees and come back.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "394",
+  text = [[
+OK!  Time's up, game over.
+Come back again.  Good bye[...]
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "395",
+  text = [[
+Come back again!
+I will be waiting for you.
+  ]],
+}
+-----------------------
+
+dialog{
+  id = "396",
+  text = [[
+I can't tell you details, but
+it's not a convenient time for
+me now.  Come back here again.[WaitKey]
+Sorry.
+  ]],
+}
+-----------------------
+
