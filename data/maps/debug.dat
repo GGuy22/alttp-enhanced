@@ -4,7 +4,16 @@ properties{
   width = 320,
   height = 240,
   tileset = "temp",
-  music = "same",
+  music = "MainField-Hikari-First",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 72,
+  width = 16,
+  height = 16,
+  pattern = "3",
 }
 
 destination{
