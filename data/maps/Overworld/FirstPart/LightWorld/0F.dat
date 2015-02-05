@@ -1,0 +1,95 @@
+properties{
+  x = 3584,
+  y = 512,
+  width = 512,
+  height = 512,
+  tileset = "temp",
+  music = "same",
+}
+
+custom_entity{
+  layer = 0,
+  x = 8,
+  y = 13,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/0F",
+}
+
+teletransporter{
+  layer = 0,
+  x = 256,
+  y = 512,
+  width = 256,
+  height = 16,
+  transition = "scrolling",
+  destination_map = "Overworld/FirstPart/LightWorld/0F",
+  destination = "_side",
+}
+
+teletransporter{
+  layer = 0,
+  x = 0,
+  y = 512,
+  width = 128,
+  height = 16,
+  destination_map = "Overworld/FirstPart/LightWorld/0F",
+}
+
+teletransporter{
+  layer = 0,
+  x = 128,
+  y = 512,
+  width = 128,
+  height = 16,
+  destination_map = "Overworld/FirstPart/LightWorld/0F",
+}
+
+teletransporter{
+  layer = 0,
+  x = 256,
+  y = -16,
+  width = 256,
+  height = 16,
+  destination_map = "Overworld/FirstPart/LightWorld/81",
+  destination = "0182",
+}
+
+teletransporter{
+  layer = 0,
+  x = 128,
+  y = 296,
+  width = 16,
+  height = 16,
+  name = "Whirl-35",
+  sprite = "entities/teletransporter",
+  destination_map = "Overworld/FirstPart/LightWorld/35",
+  destination = "BA-Whirl",
+}
+
+destination{
+  layer = 0,
+  x = 136,
+  y = 317,
+  name = "BA-Whirlpool",
+  direction = 3,
+}
+
+destination{
+  layer = 0,
+  x = 344,
+  y = 13,
+  name = "FFFF",
+  direction = 3,
+}
+
+teletransporter{
+  layer = 0,
+  x = 96,
+  y = 24,
+  width = 16,
+  height = 16,
+  destination_map = "Interiors/276",
+}
+

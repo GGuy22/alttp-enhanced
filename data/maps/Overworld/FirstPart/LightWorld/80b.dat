@@ -1,0 +1,19 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  tileset = "temp",
+  music = "same",
+}
+
+custom_entity{
+  layer = 0,
+  x = 40,
+  y = 13,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/80b",
+}
+

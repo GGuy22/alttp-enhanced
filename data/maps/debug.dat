@@ -1,26 +1,124 @@
 properties{
   x = 0,
   y = 0,
-  width = 320,
+  width = 512,
   height = 240,
   tileset = "temp",
-  music = "MainField-Hikari-First",
-}
-
-tile{
-  layer = 0,
-  x = 152,
-  y = 72,
-  width = 16,
-  height = 16,
-  pattern = "3",
+  music = "same",
 }
 
 destination{
   layer = 0,
-  x = 160,
-  y = 117,
+  x = 256,
+  y = 125,
   direction = 3,
   default = true,
+}
+
+teletransporter{
+  layer = 0,
+  x = 216,
+  y = 88,
+  width = 16,
+  height = 16,
+  sprite = "entities/teletransporter",
+  sound = "warp",
+  destination_map = "Overworld/FirstPart/LightWorld/2C",
+  destination = "Fly-4",
+}
+
+teletransporter{
+  layer = 0,
+  x = 24,
+  y = 88,
+  width = 16,
+  height = 16,
+  sprite = "entities/teletransporter",
+  sound = "warp",
+  destination_map = "Overworld/FirstPart/LightWorld/03",
+  destination = "Fly-1",
+}
+
+teletransporter{
+  layer = 0,
+  x = 152,
+  y = 88,
+  width = 16,
+  height = 16,
+  sprite = "entities/teletransporter",
+  sound = "warp",
+  destination_map = "Overworld/FirstPart/LightWorld/18",
+  destination = "Fly-3",
+}
+
+teletransporter{
+  layer = 0,
+  x = 344,
+  y = 88,
+  width = 16,
+  height = 16,
+  sprite = "entities/teletransporter",
+  sound = "warp",
+  destination_map = "Overworld/FirstPart/LightWorld/30",
+  destination = "Fly-6",
+}
+
+teletransporter{
+  layer = 0,
+  x = 88,
+  y = 88,
+  width = 16,
+  height = 16,
+  sprite = "entities/teletransporter",
+  sound = "warp",
+  destination_map = "Overworld/FirstPart/LightWorld/16",
+  destination = "Fly-2",
+}
+
+teletransporter{
+  layer = 0,
+  x = 280,
+  y = 88,
+  width = 16,
+  height = 16,
+  sprite = "entities/teletransporter",
+  sound = "warp",
+  destination_map = "Overworld/FirstPart/LightWorld/2F",
+  destination = "Fly-5",
+}
+
+teletransporter{
+  layer = 0,
+  x = 408,
+  y = 88,
+  width = 16,
+  height = 16,
+  sprite = "entities/teletransporter",
+  sound = "warp",
+  destination_map = "Overworld/FirstPart/LightWorld/3B",
+  destination = "Fly-7",
+}
+
+teletransporter{
+  layer = 0,
+  x = 472,
+  y = 88,
+  width = 16,
+  height = 16,
+  sprite = "entities/teletransporter",
+  sound = "warp",
+  destination_map = "Overworld/FirstPart/LightWorld/3F",
+  destination = "Fly-8",
+}
+
+teletransporter{
+  layer = 0,
+  x = 248,
+  y = 184,
+  width = 16,
+  height = 16,
+  sprite = "entities/teletransporter",
+  sound = "warp",
+  destination_map = "Overworld/FirstPart/LightWorld/OneMap",
 }
 

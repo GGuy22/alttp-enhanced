@@ -1,0 +1,679 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 7168,
+  height = 7168,
+  tileset = "temp",
+  music = "same",
+}
+
+custom_entity{
+  layer = 0,
+  x = 4872,
+  y = 5133,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/2F",
+}
+
+custom_entity{
+  layer = 0,
+  x = 4360,
+  y = 5133,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/2E",
+}
+
+custom_entity{
+  layer = 0,
+  x = 3848,
+  y = 5133,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/2D",
+}
+
+custom_entity{
+  layer = 0,
+  x = 3848,
+  y = 4621,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/25",
+}
+
+custom_entity{
+  layer = 0,
+  x = 4360,
+  y = 4109,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/1E",
+}
+
+custom_entity{
+  layer = 0,
+  x = 3848,
+  y = 4109,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/1D",
+}
+
+custom_entity{
+  layer = 0,
+  x = 3336,
+  y = 3597,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/14",
+}
+
+custom_entity{
+  layer = 0,
+  x = 2824,
+  y = 3597,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/13",
+}
+
+custom_entity{
+  layer = 0,
+  x = 2312,
+  y = 3597,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/12",
+}
+
+custom_entity{
+  layer = 0,
+  x = 2312,
+  y = 525,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/03",
+}
+
+custom_entity{
+  layer = 0,
+  x = 2312,
+  y = 3085,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/0A",
+}
+
+custom_entity{
+  layer = 0,
+  x = 2312,
+  y = 2573,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/02",
+}
+
+custom_entity{
+  layer = 0,
+  x = 2824,
+  y = 4109,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/1B",
+}
+
+custom_entity{
+  layer = 0,
+  x = 2312,
+  y = 4621,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/22",
+}
+
+custom_entity{
+  layer = 0,
+  x = 2312,
+  y = 4109,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/1A",
+}
+
+custom_entity{
+  layer = 0,
+  x = 4872,
+  y = 5645,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/37",
+}
+
+custom_entity{
+  layer = 0,
+  x = 3848,
+  y = 5645,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/35",
+}
+
+custom_entity{
+  layer = 0,
+  x = 2312,
+  y = 6157,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/3A",
+}
+
+custom_entity{
+  layer = 0,
+  x = 2312,
+  y = 5645,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/32",
+}
+
+custom_entity{
+  layer = 0,
+  x = 3336,
+  y = 5645,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/34",
+}
+
+custom_entity{
+  layer = 0,
+  x = 2824,
+  y = 5645,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/33",
+}
+
+custom_entity{
+  layer = 0,
+  x = 3336,
+  y = 5133,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/2C",
+}
+
+custom_entity{
+  layer = 0,
+  x = 2824,
+  y = 5133,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/2B",
+}
+
+custom_entity{
+  layer = 0,
+  x = 2312,
+  y = 5133,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/2A",
+}
+
+custom_entity{
+  layer = 0,
+  x = 1280,
+  y = 5632,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/30",
+}
+
+custom_entity{
+  layer = 0,
+  x = 1288,
+  y = 5133,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/28",
+}
+
+custom_entity{
+  layer = 0,
+  x = 1800,
+  y = 5133,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/29",
+}
+
+custom_entity{
+  layer = 0,
+  x = 1800,
+  y = 3597,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/11",
+}
+
+custom_entity{
+  layer = 0,
+  x = 512,
+  y = 1792,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/00",
+}
+
+custom_entity{
+  layer = 0,
+  x = 1280,
+  y = 3584,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/10",
+}
+
+custom_entity{
+  layer = 0,
+  x = 1280,
+  y = 4096,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/18",
+}
+
+custom_entity{
+  layer = 0,
+  x = 2824,
+  y = 6157,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/3B",
+}
+
+custom_entity{
+  layer = 0,
+  x = 3336,
+  y = 6157,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/3C",
+}
+
+custom_entity{
+  layer = 0,
+  x = 4872,
+  y = 6157,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/3F",
+}
+
+custom_entity{
+  layer = 0,
+  x = 3336,
+  y = 525,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/05",
+}
+
+custom_entity{
+  layer = 0,
+  x = 4360,
+  y = 525,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/07",
+}
+
+custom_entity{
+  layer = 0,
+  x = 4872,
+  y = 3085,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/0F",
+}
+
+custom_entity{
+  layer = 0,
+  x = 3848,
+  y = 3597,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/15",
+}
+
+custom_entity{
+  layer = 0,
+  x = 4360,
+  y = 3597,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/16",
+}
+
+custom_entity{
+  layer = 0,
+  x = 4872,
+  y = 3597,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/17",
+}
+
+custom_entity{
+  layer = 0,
+  x = 5640,
+  y = 525,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/81",
+}
+
+custom_entity{
+  layer = 0,
+  x = 6152,
+  y = 4877,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/80b",
+}
+
+custom_entity{
+  layer = 0,
+  x = 520,
+  y = 525,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/80a",
+}
+
+separator{
+  layer = 0,
+  x = 1024,
+  y = 256,
+  width = 16,
+  height = 1024,
+}
+
+separator{
+  layer = 0,
+  x = 256,
+  y = 1280,
+  width = 768,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 256,
+  y = 240,
+  width = 768,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 240,
+  y = 256,
+  width = 16,
+  height = 1024,
+}
+
+separator{
+  layer = 0,
+  x = 2032,
+  y = 256,
+  width = 16,
+  height = 1536,
+}
+
+separator{
+  layer = 0,
+  x = 5120,
+  y = 256,
+  width = 16,
+  height = 1536,
+}
+
+separator{
+  layer = 0,
+  x = 2048,
+  y = 1792,
+  width = 3072,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 2048,
+  y = 240,
+  width = 3072,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 5360,
+  y = 256,
+  width = 16,
+  height = 1536,
+}
+
+separator{
+  layer = 0,
+  x = 5376,
+  y = 240,
+  width = 1536,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 5376,
+  y = 1792,
+  width = 1536,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 6912,
+  y = 256,
+  width = 16,
+  height = 1536,
+}
+
+separator{
+  layer = 0,
+  x = 240,
+  y = 1536,
+  width = 16,
+  height = 1536,
+}
+
+separator{
+  layer = 0,
+  x = 256,
+  y = 1520,
+  width = 1536,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 256,
+  y = 3072,
+  width = 1536,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 1792,
+  y = 1536,
+  width = 16,
+  height = 1536,
+}
+
+separator{
+  layer = 0,
+  x = 1024,
+  y = 3312,
+  width = 1024,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 2032,
+  y = 2304,
+  width = 16,
+  height = 1024,
+}
+
+separator{
+  layer = 0,
+  x = 2048,
+  y = 2288,
+  width = 1024,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 3072,
+  y = 2304,
+  width = 16,
+  height = 1024,
+}
+
+separator{
+  layer = 0,
+  x = 1008,
+  y = 3328,
+  width = 16,
+  height = 3584,
+}
+
+separator{
+  layer = 0,
+  x = 1024,
+  y = 6912,
+  width = 4608,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 5632,
+  y = 2816,
+  width = 16,
+  height = 4096,
+}
+
+separator{
+  layer = 0,
+  x = 5872,
+  y = 4608,
+  width = 16,
+  height = 768,
+}
+
+separator{
+  layer = 0,
+  x = 6656,
+  y = 4608,
+  width = 16,
+  height = 768,
+}
+
+separator{
+  layer = 0,
+  x = 5888,
+  y = 4592,
+  width = 768,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 5888,
+  y = 5376,
+  width = 768,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 4608,
+  y = 2800,
+  width = 1024,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 4592,
+  y = 2816,
+  width = 16,
+  height = 512,
+}
+
+separator{
+  layer = 0,
+  x = 3072,
+  y = 3312,
+  width = 1536,
+  height = 16,
+}
+

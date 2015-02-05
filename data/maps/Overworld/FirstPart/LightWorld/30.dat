@@ -1,0 +1,38 @@
+properties{
+  x = 0,
+  y = 3072,
+  width = 1024,
+  height = 1024,
+  tileset = "temp",
+  music = "same",
+}
+
+custom_entity{
+  layer = 0,
+  x = 0,
+  y = 0,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/30",
+}
+
+destination{
+  layer = 0,
+  x = 128,
+  y = 949,
+  name = "Fly-6",
+  direction = 3,
+}
+
+teletransporter{
+  layer = 0,
+  x = 1024,
+  y = 512,
+  width = 16,
+  height = 512,
+  transition = "scrolling",
+  destination_map = "Overworld/FirstPart/LightWorld/3A",
+  destination = "_side",
+}
+

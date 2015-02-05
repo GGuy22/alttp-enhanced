@@ -1,0 +1,41 @@
+properties{
+  x = 2560,
+  y = 2048,
+  width = 512,
+  height = 512,
+  tileset = "temp",
+  music = "MainField-Hikari-First",
+}
+
+custom_entity{
+  layer = 0,
+  x = 8,
+  y = 13,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/25",
+}
+
+teletransporter{
+  layer = 0,
+  x = 0,
+  y = -16,
+  width = 512,
+  height = 16,
+  transition = "scrolling",
+  destination_map = "Overworld/FirstPart/LightWorld/1D",
+  destination = "_side",
+}
+
+teletransporter{
+  layer = 0,
+  x = 0,
+  y = 512,
+  width = 512,
+  height = 16,
+  transition = "scrolling",
+  destination_map = "Overworld/FirstPart/LightWorld/2D",
+  destination = "_side",
+}
+

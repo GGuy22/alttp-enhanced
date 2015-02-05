@@ -1,0 +1,66 @@
+properties{
+  x = 1024,
+  y = 2048,
+  width = 512,
+  height = 512,
+  tileset = "temp",
+  music = "same",
+}
+
+tile{
+  layer = 0,
+  x = 296,
+  y = 248,
+  width = 16,
+  height = 16,
+  pattern = "16",
+}
+
+custom_entity{
+  layer = 0,
+  x = 8,
+  y = 13,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/22",
+}
+
+teletransporter{
+  layer = 0,
+  x = -16,
+  y = 0,
+  width = 16,
+  height = 512,
+  transition = "scrolling",
+  destination_map = "Overworld/FirstPart/LightWorld/18",
+  destination = "_side",
+}
+
+teletransporter{
+  layer = 0,
+  x = 216,
+  y = 120,
+  width = 16,
+  height = 16,
+  destination_map = "Interiors/289",
+}
+
+teletransporter{
+  layer = 0,
+  x = 264,
+  y = 216,
+  width = 16,
+  height = 16,
+  destination_map = "Interiors/227",
+}
+
+teletransporter{
+  layer = 0,
+  x = 296,
+  y = 248,
+  width = 16,
+  height = 16,
+  destination_map = "Interiors/227",
+}
+

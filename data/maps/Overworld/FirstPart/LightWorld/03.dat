@@ -1,0 +1,113 @@
+properties{
+  x = 1536,
+  y = 0,
+  width = 1024,
+  height = 1024,
+  world = "Light World - First Part",
+  tileset = "temp",
+  music = "same",
+}
+
+custom_entity{
+  layer = 0,
+  x = 8,
+  y = 13,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/03",
+}
+
+destination{
+  layer = 0,
+  x = 128,
+  y = 821,
+  name = "Fly-1",
+  direction = 3,
+}
+
+teletransporter{
+  layer = 0,
+  x = 1024,
+  y = 0,
+  width = 16,
+  height = 512,
+  transition = "scrolling",
+  destination_map = "Overworld/FirstPart/LightWorld/05",
+  destination = "_side",
+}
+
+teletransporter{
+  layer = 0,
+  x = 1024,
+  y = 512,
+  width = 16,
+  height = 512,
+  transition = "scrolling",
+  destination_map = "Overworld/FirstPart/LightWorld/05",
+  destination = "_side",
+}
+
+teletransporter{
+  layer = 0,
+  x = 328,
+  y = 552,
+  width = 16,
+  height = 16,
+  destination_map = "Interiors/249",
+}
+
+teletransporter{
+  layer = 0,
+  x = 456,
+  y = 584,
+  width = 16,
+  height = 16,
+  destination_map = "Interiors/250",
+}
+
+teletransporter{
+  layer = 0,
+  x = 456,
+  y = 408,
+  width = 16,
+  height = 16,
+  destination_map = "Interiors/234",
+}
+
+teletransporter{
+  layer = 0,
+  x = 648,
+  y = 648,
+  width = 16,
+  height = 16,
+  destination_map = "Interiors/229",
+}
+
+teletransporter{
+  layer = 0,
+  x = 752,
+  y = 120,
+  width = 16,
+  height = 16,
+  destination_map = "Interiors/119",
+}
+
+teletransporter{
+  layer = 0,
+  x = 72,
+  y = 552,
+  width = 16,
+  height = 16,
+  destination_map = "Interiors/231",
+}
+
+teletransporter{
+  layer = 0,
+  x = 120,
+  y = 760,
+  width = 16,
+  height = 16,
+  destination_map = "Interiors/241",
+}
+

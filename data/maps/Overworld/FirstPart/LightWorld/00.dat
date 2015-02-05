@@ -1,0 +1,59 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 1024,
+  height = 1024,
+  world = "Light World - First Part",
+  tileset = "temp",
+  music = "Mori",
+}
+
+teletransporter{
+  layer = 0,
+  x = 0,
+  y = 1024,
+  width = 512,
+  height = 16,
+  destination_map = "Overworld/FirstPart/LightWorld/10",
+  destination = "_side",
+}
+
+teletransporter{
+  layer = 0,
+  x = 512,
+  y = 1024,
+  width = 512,
+  height = 16,
+  destination_map = "Overworld/FirstPart/LightWorld/11",
+  destination = "_side",
+}
+
+teletransporter{
+  layer = 0,
+  x = 1024,
+  y = 0,
+  width = 16,
+  height = 512,
+  destination_map = "Overworld/FirstPart/LightWorld/02",
+  destination = "_side",
+}
+
+custom_entity{
+  layer = 0,
+  x = 0,
+  y = 0,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/00",
+}
+
+teletransporter{
+  layer = 0,
+  x = 744,
+  y = 600,
+  width = 16,
+  height = 16,
+  destination_map = "Interiors/225",
+}
+

@@ -1,0 +1,38 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 1024,
+  height = 1024,
+  tileset = "temp",
+  music = "same",
+}
+
+custom_entity{
+  layer = 0,
+  x = 8,
+  y = 13,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/81",
+}
+
+destination{
+  layer = 0,
+  x = 168,
+  y = 1013,
+  name = "0182",
+  direction = 1,
+  default = true,
+}
+
+teletransporter{
+  layer = 0,
+  x = 0,
+  y = 1024,
+  width = 512,
+  height = 16,
+  destination_map = "Overworld/FirstPart/LightWorld/0F",
+  destination = "FFFF",
+}
+

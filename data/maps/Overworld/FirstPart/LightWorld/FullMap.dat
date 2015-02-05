@@ -1,0 +1,801 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 4096,
+  height = 4096,
+  tileset = "temp",
+  music = "MainField-Hikari-First",
+}
+
+custom_entity{
+  layer = 0,
+  x = 3592,
+  y = 2573,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/2F",
+}
+
+custom_entity{
+  layer = 0,
+  x = 3080,
+  y = 2573,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/2E",
+}
+
+custom_entity{
+  layer = 0,
+  x = 2568,
+  y = 2573,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/2D",
+}
+
+custom_entity{
+  layer = 0,
+  x = 2568,
+  y = 2061,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/25",
+}
+
+custom_entity{
+  layer = 0,
+  x = 3080,
+  y = 1549,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/1E",
+}
+
+separator{
+  layer = 0,
+  x = 3072,
+  y = 2552,
+  width = 1024,
+  height = 16,
+}
+
+custom_entity{
+  layer = 0,
+  x = 2568,
+  y = 1549,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/1D",
+}
+
+custom_entity{
+  layer = 0,
+  x = 2056,
+  y = 1037,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/14",
+}
+
+custom_entity{
+  layer = 0,
+  x = 1544,
+  y = 1037,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/13",
+}
+
+custom_entity{
+  layer = 0,
+  x = 1032,
+  y = 1037,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/12",
+}
+
+custom_entity{
+  layer = 0,
+  x = 1544,
+  y = 13,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/03",
+}
+
+custom_entity{
+  layer = 0,
+  x = 1032,
+  y = 525,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/0A",
+}
+
+custom_entity{
+  layer = 0,
+  x = 1032,
+  y = 13,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/02",
+}
+
+custom_entity{
+  layer = 0,
+  x = 1544,
+  y = 1549,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/1B",
+}
+
+separator{
+  layer = 0,
+  x = 1536,
+  y = 1528,
+  width = 1024,
+  height = 16,
+}
+
+custom_entity{
+  layer = 0,
+  x = 1032,
+  y = 2061,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/22",
+}
+
+custom_entity{
+  layer = 0,
+  x = 1032,
+  y = 1549,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/1A",
+}
+
+separator{
+  layer = 0,
+  x = 1024,
+  y = 2040,
+  width = 512,
+  height = 16,
+}
+
+custom_entity{
+  layer = 0,
+  x = 3592,
+  y = 3085,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/37",
+}
+
+separator{
+  layer = 0,
+  x = 3584,
+  y = 3064,
+  width = 512,
+  height = 16,
+}
+
+custom_entity{
+  layer = 0,
+  x = 2568,
+  y = 3085,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/35",
+}
+
+separator{
+  layer = 0,
+  x = 2560,
+  y = 3064,
+  width = 1024,
+  height = 16,
+}
+
+custom_entity{
+  layer = 0,
+  x = 1032,
+  y = 3597,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/3A",
+}
+
+custom_entity{
+  layer = 0,
+  x = 1032,
+  y = 3085,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/32",
+}
+
+custom_entity{
+  layer = 0,
+  x = 2056,
+  y = 3085,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/34",
+}
+
+custom_entity{
+  layer = 0,
+  x = 1544,
+  y = 3085,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/33",
+}
+
+custom_entity{
+  layer = 0,
+  x = 2056,
+  y = 2573,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/2C",
+}
+
+custom_entity{
+  layer = 0,
+  x = 1544,
+  y = 2573,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/2B",
+}
+
+separator{
+  layer = 0,
+  x = 1536,
+  y = 2552,
+  width = 1024,
+  height = 16,
+}
+
+custom_entity{
+  layer = 0,
+  x = 1032,
+  y = 2573,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/2A",
+}
+
+separator{
+  layer = 0,
+  x = 1024,
+  y = 2552,
+  width = 512,
+  height = 16,
+}
+
+custom_entity{
+  layer = 0,
+  x = 0,
+  y = 3072,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/30",
+}
+
+custom_entity{
+  layer = 0,
+  x = 8,
+  y = 2573,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/28",
+}
+
+custom_entity{
+  layer = 0,
+  x = 520,
+  y = 2573,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/29",
+}
+
+custom_entity{
+  layer = 0,
+  x = 520,
+  y = 1037,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/11",
+}
+
+custom_entity{
+  layer = 0,
+  x = 0,
+  y = 0,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/00",
+}
+
+custom_entity{
+  layer = 0,
+  x = 0,
+  y = 1024,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/10",
+}
+
+custom_entity{
+  layer = 0,
+  x = 0,
+  y = 1536,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/18",
+}
+
+separator{
+  layer = 0,
+  x = 0,
+  y = 1528,
+  width = 1024,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 0,
+  y = 2552,
+  width = 1024,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 504,
+  y = 1024,
+  width = 16,
+  height = 512,
+}
+
+separator{
+  layer = 0,
+  x = 1016,
+  y = 1536,
+  width = 16,
+  height = 512,
+}
+
+separator{
+  layer = 0,
+  x = 0,
+  y = 3064,
+  width = 1024,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 1016,
+  y = 2560,
+  width = 16,
+  height = 512,
+}
+
+separator{
+  layer = 0,
+  x = 1536,
+  y = 3064,
+  width = 1024,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 1528,
+  y = 2560,
+  width = 16,
+  height = 512,
+}
+
+custom_entity{
+  layer = 0,
+  x = 1544,
+  y = 3597,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/3B",
+}
+
+custom_entity{
+  layer = 0,
+  x = 2056,
+  y = 3597,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/3C",
+}
+
+custom_entity{
+  layer = 0,
+  x = 3592,
+  y = 3597,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/3F",
+}
+
+separator{
+  layer = 0,
+  x = 2552,
+  y = 3072,
+  width = 16,
+  height = 1024,
+}
+
+separator{
+  layer = 0,
+  x = 1016,
+  y = 3072,
+  width = 16,
+  height = 1024,
+}
+
+separator{
+  layer = 0,
+  x = 1528,
+  y = 3072,
+  width = 16,
+  height = 1024,
+}
+
+separator{
+  layer = 0,
+  x = 1528,
+  y = 2048,
+  width = 16,
+  height = 512,
+}
+
+separator{
+  layer = 0,
+  x = 1016,
+  y = 2048,
+  width = 16,
+  height = 512,
+}
+
+separator{
+  layer = 0,
+  x = 1528,
+  y = 1536,
+  width = 16,
+  height = 512,
+}
+
+separator{
+  layer = 0,
+  x = 1024,
+  y = 3064,
+  width = 512,
+  height = 16,
+}
+
+custom_entity{
+  layer = 0,
+  x = 2568,
+  y = 13,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/05",
+}
+
+custom_entity{
+  layer = 0,
+  x = 3592,
+  y = 13,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/07",
+}
+
+separator{
+  layer = 0,
+  x = 1024,
+  y = 1016,
+  width = 512,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 0,
+  y = 1016,
+  width = 1024,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 1016,
+  y = 1024,
+  width = 16,
+  height = 512,
+}
+
+separator{
+  layer = 0,
+  x = 1016,
+  y = 0,
+  width = 16,
+  height = 1024,
+}
+
+custom_entity{
+  layer = 0,
+  x = 3592,
+  y = 525,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/0F",
+}
+
+custom_entity{
+  layer = 0,
+  x = 2568,
+  y = 1037,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/15",
+}
+
+custom_entity{
+  layer = 0,
+  x = 3080,
+  y = 1037,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/16",
+}
+
+custom_entity{
+  layer = 0,
+  x = 3592,
+  y = 1037,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/17",
+}
+
+separator{
+  layer = 0,
+  x = 1536,
+  y = 1016,
+  width = 1024,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 3584,
+  y = 504,
+  width = 512,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 3072,
+  y = 1528,
+  width = 1024,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 3576,
+  y = 2560,
+  width = 16,
+  height = 512,
+}
+
+separator{
+  layer = 0,
+  x = 1528,
+  y = 0,
+  width = 16,
+  height = 1024,
+}
+
+separator{
+  layer = 0,
+  x = 1528,
+  y = 1024,
+  width = 16,
+  height = 512,
+}
+
+separator{
+  layer = 0,
+  x = 2560,
+  y = 1528,
+  width = 512,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 2560,
+  y = 2040,
+  width = 512,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 2560,
+  y = 2552,
+  width = 512,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 2552,
+  y = 2560,
+  width = 16,
+  height = 512,
+}
+
+separator{
+  layer = 0,
+  x = 2552,
+  y = 1536,
+  width = 16,
+  height = 512,
+}
+
+separator{
+  layer = 0,
+  x = 2552,
+  y = 2048,
+  width = 16,
+  height = 512,
+}
+
+separator{
+  layer = 0,
+  x = 3064,
+  y = 1536,
+  width = 16,
+  height = 512,
+}
+
+separator{
+  layer = 0,
+  x = 3064,
+  y = 2048,
+  width = 16,
+  height = 512,
+}
+
+separator{
+  layer = 0,
+  x = 3064,
+  y = 2560,
+  width = 16,
+  height = 512,
+}
+
+separator{
+  layer = 0,
+  x = 2552,
+  y = 1024,
+  width = 16,
+  height = 512,
+}
+
+separator{
+  layer = 0,
+  x = 3576,
+  y = 3072,
+  width = 16,
+  height = 1024,
+}
+
+separator{
+  layer = 0,
+  x = 1024,
+  y = 1528,
+  width = 512,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 3576,
+  y = 512,
+  width = 16,
+  height = 512,
+}
+
+separator{
+  layer = 0,
+  x = 3064,
+  y = 1024,
+  width = 16,
+  height = 512,
+}
+
+separator{
+  layer = 0,
+  x = 2560,
+  y = 1016,
+  width = 1024,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 3584,
+  y = 1016,
+  width = 512,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 3576,
+  y = 0,
+  width = 16,
+  height = 512,
+}
+

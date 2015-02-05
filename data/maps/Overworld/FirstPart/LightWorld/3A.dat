@@ -1,0 +1,39 @@
+properties{
+  x = 1024,
+  y = 3584,
+  width = 512,
+  height = 512,
+  tileset = "temp",
+  music = "same",
+}
+
+custom_entity{
+  layer = 0,
+  x = 8,
+  y = 13,
+  width = 16,
+  height = 16,
+  direction = 3,
+  sprite = "temp/FirstPart/LightWorld/3A",
+}
+
+teletransporter{
+  layer = 0,
+  x = 512,
+  y = 0,
+  width = 16,
+  height = 512,
+  transition = "scrolling",
+  destination_map = "Overworld/FirstPart/LightWorld/3B",
+  destination = "_side",
+}
+
+teletransporter{
+  layer = 0,
+  x = 104,
+  y = 56,
+  width = 16,
+  height = 16,
+  destination_map = "Interiors/277",
+}
+
