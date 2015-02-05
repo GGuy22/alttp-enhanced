@@ -4,7 +4,7 @@ properties{
   width = 1024,
   height = 1024,
   tileset = "temp",
-  music = "same",
+  music = "MainField-Hikari-First",
 }
 
 custom_entity{
@@ -34,5 +34,50 @@ teletransporter{
   transition = "scrolling",
   destination_map = "Overworld/FirstPart/LightWorld/3A",
   destination = "_side",
+}
+
+teletransporter{
+  layer = 0,
+  x = 296,
+  y = 176,
+  width = 16,
+  height = 16,
+  destination_map = "Dungeons/Desert/132",
+}
+
+teletransporter{
+  layer = 0,
+  x = 456,
+  y = 168,
+  width = 16,
+  height = 16,
+  destination_map = "Dungeons/Desert/133",
+}
+
+teletransporter{
+  layer = 0,
+  x = 136,
+  y = 168,
+  width = 16,
+  height = 16,
+  destination_map = "Dungeons/Desert/131",
+}
+
+teletransporter{
+  layer = 0,
+  x = 296,
+  y = 56,
+  width = 16,
+  height = 16,
+  destination_map = "Dungeons/Desert/99",
+}
+
+teletransporter{
+  layer = 0,
+  x = 808,
+  y = 296,
+  width = 16,
+  height = 16,
+  destination_map = "Interiors/Caves/266",
 }
 

@@ -8,6 +8,15 @@ properties{
   music = "MainField-Hikari-First",
 }
 
+tile{
+  layer = 0,
+  x = 896,
+  y = 160,
+  width = 16,
+  height = 16,
+  pattern = "16",
+}
+
 custom_entity{
   layer = 0,
   x = 8,
@@ -24,7 +33,7 @@ teletransporter{
   y = 248,
   width = 16,
   height = 16,
-  destination_map = "Interiors/97",
+  destination_map = "Dungeons/Castle/97",
 }
 
 teletransporter{
@@ -33,7 +42,7 @@ teletransporter{
   y = 88,
   width = 16,
   height = 16,
-  destination_map = "Interiors/224",
+  destination_map = "Dungeons/Agahnim/224",
 }
 
 teletransporter{
@@ -42,7 +51,7 @@ teletransporter{
   y = 40,
   width = 16,
   height = 16,
-  destination_map = "Interiors/96",
+  destination_map = "Dungeons/Castle/96",
 }
 
 teletransporter{
@@ -51,7 +60,7 @@ teletransporter{
   y = 40,
   width = 16,
   height = 16,
-  destination_map = "Interiors/98",
+  destination_map = "Dungeons/Castle/98",
 }
 
 teletransporter{
@@ -60,6 +69,15 @@ teletransporter{
   y = 216,
   width = 16,
   height = 16,
-  destination_map = "Interiors/85",
+  destination_map = "Dungeons/Castle/85",
+}
+
+teletransporter{
+  layer = 0,
+  x = 896,
+  y = 160,
+  width = 16,
+  height = 16,
+  destination_map = "Dungeons/Castle/85",
 }
 

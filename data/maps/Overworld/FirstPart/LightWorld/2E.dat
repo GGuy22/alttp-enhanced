@@ -56,6 +56,6 @@ teletransporter{
   y = 72,
   width = 16,
   height = 16,
-  destination_map = "Interiors/277",
+  destination_map = "Interiors/269",
 }
 

@@ -33,3 +33,20 @@ separator{
   height = 512,
 }
 
+destination{
+  layer = 0,
+  x = 128,
+  y = 477,
+  direction = 1,
+  default = true,
+}
+
+teletransporter{
+  layer = 0,
+  x = 120,
+  y = 480,
+  width = 16,
+  height = 16,
+  destination_map = "Overworld/FirstPart/LightWorld/16",
+}
+

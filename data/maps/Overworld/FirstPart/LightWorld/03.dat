@@ -5,7 +5,7 @@ properties{
   height = 1024,
   world = "Light World - First Part",
   tileset = "temp",
-  music = "same",
+  music = "UraYama",
 }
 
 custom_entity{
@@ -54,7 +54,7 @@ teletransporter{
   y = 552,
   width = 16,
   height = 16,
-  destination_map = "Interiors/249",
+  destination_map = "Interiors/Caves/249",
 }
 
 teletransporter{
@@ -63,7 +63,7 @@ teletransporter{
   y = 584,
   width = 16,
   height = 16,
-  destination_map = "Interiors/250",
+  destination_map = "Interiors/Caves/250",
 }
 
 teletransporter{
@@ -72,7 +72,7 @@ teletransporter{
   y = 408,
   width = 16,
   height = 16,
-  destination_map = "Interiors/234",
+  destination_map = "Interiors/Caves/234",
 }
 
 teletransporter{
@@ -81,7 +81,7 @@ teletransporter{
   y = 648,
   width = 16,
   height = 16,
-  destination_map = "Interiors/229",
+  destination_map = "Interiors/Caves/229",
 }
 
 teletransporter{
@@ -90,7 +90,7 @@ teletransporter{
   y = 120,
   width = 16,
   height = 16,
-  destination_map = "Interiors/119",
+  destination_map = "Dungeons/Tower/119",
 }
 
 teletransporter{
@@ -99,7 +99,7 @@ teletransporter{
   y = 552,
   width = 16,
   height = 16,
-  destination_map = "Interiors/231",
+  destination_map = "Interiors/Caves/231",
 }
 
 teletransporter{
@@ -108,6 +108,6 @@ teletransporter{
   y = 760,
   width = 16,
   height = 16,
-  destination_map = "Interiors/241",
+  destination_map = "Interiors/Caves/241",
 }
 

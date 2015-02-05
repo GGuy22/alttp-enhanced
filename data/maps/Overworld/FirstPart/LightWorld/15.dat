@@ -4,7 +4,7 @@ properties{
   width = 512,
   height = 512,
   tileset = "temp",
-  music = "same",
+  music = "MainField-Hikari-First",
 }
 
 custom_entity{
@@ -68,5 +68,14 @@ destination{
   y = 157,
   name = "BA-Whirlpool",
   direction = 3,
+}
+
+teletransporter{
+  layer = 0,
+  x = 168,
+  y = 88,
+  width = 16,
+  height = 16,
+  destination_map = "Interiors/Caves/8",
 }
 

@@ -4,7 +4,7 @@ properties{
   width = 512,
   height = 512,
   tileset = "temp",
-  music = "same",
+  music = "MainField-Hikari-First",
 }
 
 custom_entity{
@@ -26,5 +26,14 @@ teletransporter{
   transition = "scrolling",
   destination_map = "Overworld/FirstPart/LightWorld/29",
   destination = "_side",
+}
+
+teletransporter{
+  layer = 0,
+  x = 440,
+  y = 360,
+  width = 16,
+  height = 16,
+  destination_map = "Interiors/244",
 }
 

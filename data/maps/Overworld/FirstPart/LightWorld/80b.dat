@@ -17,3 +17,19 @@ custom_entity{
   sprite = "temp/FirstPart/LightWorld/80b",
 }
 
+separator{
+  layer = 0,
+  x = 24,
+  y = 0,
+  width = 16,
+  height = 240,
+}
+
+separator{
+  layer = 0,
+  x = 280,
+  y = 0,
+  width = 16,
+  height = 240,
+}
+

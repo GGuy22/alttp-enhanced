@@ -4,7 +4,7 @@ properties{
   width = 512,
   height = 512,
   tileset = "temp",
-  music = "same",
+  music = "MainField-Hikari-First",
 }
 
 teletransporter{
@@ -36,5 +36,14 @@ custom_entity{
   height = 16,
   direction = 3,
   sprite = "temp/FirstPart/LightWorld/02",
+}
+
+teletransporter{
+  layer = 0,
+  x = 328,
+  y = 120,
+  width = 16,
+  height = 16,
+  destination_map = "Interiors/Caves/226",
 }
 

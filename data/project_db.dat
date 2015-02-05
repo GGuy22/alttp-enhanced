@@ -42,338 +42,304 @@ map{ id = "Overworld/FirstPart/LightWorld/3F", description = "Area 3F - first pa
 map{ id = "Overworld/FirstPart/LightWorld/80a", description = "Area 80a - first part" }
 map{ id = "Overworld/FirstPart/LightWorld/80b", description = "Area 80b - first part" }
 map{ id = "Overworld/FirstPart/LightWorld/81", description = "Area 81 - first part" }
-map{ id = "Dungeons/Church/11", description = "The Sewers - B1 - 11" }
-map{ id = "Dungeons/Church/21", description = "The Sewers - B1 - 21" }
-map{ id = "Dungeons/Church/22", description = "The Sewers - B1 - 22" }
-map{ id = "Dungeons/Church/32", description = "The Sewers - B1 - 32" }
-map{ id = "Dungeons/Church/02", description = "The Sewers - 1F - 02" }
-map{ id = "Dungeons/Church/12", description = "The Sewers - 1F - 12" }
-map{ id = "Dungeons/Church/42", description = "The Sewers - 1F - 42" }
-map{ id = "Dungeons/Church/41", description = "The Sewers - 2F - 41" }
-map{ id = "Dungeons/Agahnim/E0", description = "2F - E0" }
-map{ id = "Dungeons/Agahnim/D0", description = "3F - D0" }
-map{ id = "Dungeons/Agahnim/C0", description = "4F - C0" }
-map{ id = "Dungeons/Agahnim/B0", description = "5F - B0" }
-map{ id = "Dungeons/Agahnim/40", description = "6F - 40" }
-map{ id = "Dungeons/Agahnim/20", description = "7F - 20" }
-map{ id = "Dungeons/Agahnim/30", description = "7F - 30" }
-map{ id = "Interiors/0", description = "Entrance 7B - room 0" }
-map{ id = "Interiors/1", description = "room 1" }
-map{ id = "Interiors/2", description = "room 2" }
-map{ id = "Interiors/3", description = "Entrance 82 - room 3" }
-map{ id = "Interiors/4", description = "room 4" }
-map{ id = "Interiors/5", description = "room 5" }
-map{ id = "Interiors/6", description = "room 6" }
-map{ id = "Interiors/7", description = "room 7" }
-map{ id = "Interiors/8", description = "Entrance 38 - room 8" }
-map{ id = "Interiors/9", description = "room 9" }
-map{ id = "Interiors/10", description = "room 10" }
-map{ id = "Interiors/11", description = "room 11" }
-map{ id = "Interiors/12", description = "Entrance 37 - room 12 (Agahnim 2)" }
-map{ id = "Interiors/13", description = "room 13" }
-map{ id = "Interiors/14", description = "Entrance 2D - room 14 (Ice)" }
-map{ id = "Interiors/15", description = "room 15" }
-map{ id = "Interiors/16", description = "Entrance 36 - room 16" }
-map{ id = "Interiors/17", description = "Entrance 81 - room 17" }
-map{ id = "Interiors/18", description = "Entrance 02 - room 18 (Church)" }
-map{ id = "Interiors/19", description = "room 19" }
-map{ id = "Interiors/20", description = "room 20" }
-map{ id = "Interiors/21", description = "room 21" }
-map{ id = "Interiors/22", description = "room 22" }
-map{ id = "Interiors/23", description = "room 23" }
-map{ id = "Interiors/24", description = "Entrance 7C - room 24" }
-map{ id = "Interiors/25", description = "room 25" }
-map{ id = "Interiors/26", description = "room 26" }
-map{ id = "Interiors/27", description = "room 27" }
-map{ id = "Interiors/28", description = "room 28" }
-map{ id = "Interiors/29", description = "room 29" }
-map{ id = "Interiors/30", description = "room 30" }
-map{ id = "Interiors/31", description = "room 31" }
-map{ id = "Interiors/32", description = "room 32" }
-map{ id = "Interiors/33", description = "room 33" }
-map{ id = "Interiors/34", description = "room 34" }
-map{ id = "Interiors/35", description = "Entrance 15 - room 35 (Mountain)" }
-map{ id = "Interiors/36", description = "Entrance 19 - room 36 (Mountain)" }
-map{ id = "Interiors/37", description = "room 37" }
-map{ id = "Interiors/38", description = "room 38" }
-map{ id = "Interiors/39", description = "room 39" }
-map{ id = "Interiors/40", description = "Entrance 25 - room 40 (Water)" }
-map{ id = "Interiors/41", description = "room 41" }
-map{ id = "Interiors/42", description = "room 42" }
-map{ id = "Interiors/43", description = "room 43" }
-map{ id = "Interiors/44", description = "Entrance 3B - room 44" }
-map{ id = "Interiors/45", description = "room 45" }
-map{ id = "Interiors/46", description = "room 46" }
-map{ id = "Interiors/47", description = "Entrance 39 - Entrance 80 - room 47" }
-map{ id = "Interiors/48", description = "Entrance 75 - room 48" }
-map{ id = "Interiors/49", description = "room 49" }
-map{ id = "Interiors/50", description = "room 50" }
-map{ id = "Interiors/51", description = "room 51" }
-map{ id = "Interiors/52", description = "room 52" }
-map{ id = "Interiors/53", description = "room 53" }
-map{ id = "Interiors/54", description = "room 54" }
-map{ id = "Interiors/55", description = "room 55" }
-map{ id = "Interiors/56", description = "room 56" }
-map{ id = "Interiors/57", description = "room 57" }
-map{ id = "Interiors/58", description = "room 58" }
-map{ id = "Interiors/59", description = "room 59" }
-map{ id = "Interiors/60", description = "Entrance 3A - room 60" }
-map{ id = "Interiors/61", description = "room 61" }
-map{ id = "Interiors/62", description = "room 62" }
-map{ id = "Interiors/63", description = "room 63" }
-map{ id = "Interiors/64", description = "room 64" }
-map{ id = "Interiors/65", description = "room 65" }
-map{ id = "Interiors/66", description = "room 66" }
-map{ id = "Interiors/67", description = "room 67" }
-map{ id = "Interiors/68", description = "room 68" }
-map{ id = "Interiors/69", description = "room 69" }
-map{ id = "Interiors/70", description = "room 70" }
-map{ id = "Interiors/71", description = "room 71" }
-map{ id = "Interiors/72", description = "room 72" }
-map{ id = "Interiors/73", description = "room 73" }
-map{ id = "Interiors/74", description = "Entrance 26 - room 74 (Dark)" }
-map{ id = "Interiors/75", description = "room 75" }
-map{ id = "Interiors/76", description = "room 76" }
-map{ id = "Interiors/77", description = "room 77" }
-map{ id = "Interiors/78", description = "room 78" }
-map{ id = "Interiors/79", description = "room 79" }
-map{ id = "Interiors/80", description = "room 80" }
-map{ id = "Interiors/81", description = "Entrance 74 - room 81" }
-map{ id = "Interiors/82", description = "room 82" }
-map{ id = "Interiors/83", description = "room 83" }
-map{ id = "Interiors/84", description = "room 84" }
-map{ id = "Interiors/85", description = "Entrance 32 - Entrance 7D - room 85" }
-map{ id = "Interiors/86", description = "Entrance 28 - Entrance 79 - room 86 (Wood)" }
-map{ id = "Interiors/87", description = "Entrance 29 - room 87 (Wood)" }
-map{ id = "Interiors/88", description = "Entrance 2A - Entrance 76 - room 88 (Wood)" }
-map{ id = "Interiors/89", description = "Entrance 2B - room 89 (Wood)" }
-map{ id = "Interiors/90", description = "room 90" }
-map{ id = "Interiors/91", description = "room 91" }
-map{ id = "Interiors/92", description = "room 92" }
-map{ id = "Interiors/93", description = "room 93" }
-map{ id = "Interiors/94", description = "room 94" }
-map{ id = "Interiors/95", description = "room 95" }
-map{ id = "Interiors/96", description = "Entrance 03 - room 96 (Castle)" }
-map{ id = "Interiors/97", description = "Entrance 04 - room 97 (Castle)" }
-map{ id = "Interiors/98", description = "Entrance 05 - room 98 (Castle)" }
-map{ id = "Interiors/99", description = "Entrance 0C - room 99 (Desert)" }
-map{ id = "Interiors/100", description = "room 100" }
-map{ id = "Interiors/101", description = "room 101" }
-map{ id = "Interiors/102", description = "room 102" }
-map{ id = "Interiors/103", description = "Entrance 77 - room 103 (Wood)" }
-map{ id = "Interiors/104", description = "Entrance 78 - room 104 (Wood)" }
-map{ id = "Interiors/105", description = "room 105" }
-map{ id = "Interiors/106", description = "room 106" }
-map{ id = "Interiors/107", description = "room 107" }
-map{ id = "Interiors/108", description = "room 108" }
-map{ id = "Interiors/109", description = "room 109" }
-map{ id = "Interiors/110", description = "room 110" }
-map{ id = "Interiors/111", description = "room 111" }
-map{ id = "Interiors/112", description = "room 112" }
-map{ id = "Interiors/113", description = "room 113" }
-map{ id = "Interiors/114", description = "room 114" }
-map{ id = "Interiors/115", description = "room 115" }
-map{ id = "Interiors/116", description = "room 116" }
-map{ id = "Interiors/117", description = "room 117" }
-map{ id = "Interiors/118", description = "room 118" }
-map{ id = "Interiors/119", description = "Entrance 33 - room 119 (Tower)" }
-map{ id = "Interiors/120", description = "room 120" }
-map{ id = "Interiors/121", description = "room 121" }
-map{ id = "Interiors/122", description = "room 122" }
-map{ id = "Interiors/123", description = "room 123" }
-map{ id = "Interiors/124", description = "room 124" }
-map{ id = "Interiors/125", description = "room 125" }
-map{ id = "Interiors/126", description = "room 126" }
-map{ id = "Interiors/127", description = "room 127" }
-map{ id = "Interiors/128", description = "Entrance 73 - room 128" }
-map{ id = "Interiors/129", description = "room 129" }
-map{ id = "Interiors/130", description = "room 130" }
-map{ id = "Interiors/131", description = "Entrance 0B - room 131 (Desert)" }
-map{ id = "Interiors/132", description = "Entrance 09 - room 132 (Desert)" }
-map{ id = "Interiors/133", description = "Entrance 0A - room 133 (Desert)" }
-map{ id = "Interiors/134", description = "room 134" }
-map{ id = "Interiors/135", description = "room 135" }
-map{ id = "Interiors/136", description = "room 136" }
-map{ id = "Interiors/137", description = "room 137" }
-map{ id = "Interiors/138", description = "room 138" }
-map{ id = "Interiors/139", description = "room 139" }
-map{ id = "Interiors/140", description = "room 140" }
-map{ id = "Interiors/141", description = "room 141" }
-map{ id = "Interiors/142", description = "room 142" }
-map{ id = "Interiors/143", description = "room 143" }
-map{ id = "Interiors/144", description = "room 144" }
-map{ id = "Interiors/145", description = "room 145" }
-map{ id = "Interiors/146", description = "room 146" }
-map{ id = "Interiors/147", description = "room 147" }
-map{ id = "Interiors/148", description = "room 148" }
-map{ id = "Interiors/149", description = "room 149" }
-map{ id = "Interiors/150", description = "room 150" }
-map{ id = "Interiors/151", description = "room 151" }
-map{ id = "Interiors/152", description = "Entrance 27 - room 152 (Mud)" }
-map{ id = "Interiors/153", description = "room 153" }
-map{ id = "Interiors/154", description = "room 154" }
-map{ id = "Interiors/155", description = "room 155" }
-map{ id = "Interiors/156", description = "room 156" }
-map{ id = "Interiors/157", description = "room 157" }
-map{ id = "Interiors/158", description = "room 158" }
-map{ id = "Interiors/159", description = "room 159" }
-map{ id = "Interiors/160", description = "room 160" }
-map{ id = "Interiors/161", description = "room 161" }
-map{ id = "Interiors/162", description = "room 162" }
-map{ id = "Interiors/163", description = "room 163" }
-map{ id = "Interiors/164", description = "room 164" }
-map{ id = "Interiors/165", description = "room 165" }
-map{ id = "Interiors/166", description = "room 166" }
-map{ id = "Interiors/167", description = "room 167" }
-map{ id = "Interiors/168", description = "room 168" }
-map{ id = "Interiors/169", description = "room 169" }
-map{ id = "Interiors/170", description = "room 170" }
-map{ id = "Interiors/171", description = "room 171" }
-map{ id = "Interiors/172", description = "room 172" }
-map{ id = "Interiors/173", description = "room 173" }
-map{ id = "Interiors/174", description = "room 174" }
-map{ id = "Interiors/175", description = "room 175" }
-map{ id = "Interiors/176", description = "room 176" }
-map{ id = "Interiors/177", description = "room 177" }
-map{ id = "Interiors/178", description = "room 178" }
-map{ id = "Interiors/179", description = "room 179" }
-map{ id = "Interiors/180", description = "room 180" }
-map{ id = "Interiors/181", description = "room 181" }
-map{ id = "Interiors/182", description = "room 182" }
-map{ id = "Interiors/183", description = "room 183" }
-map{ id = "Interiors/184", description = "room 184" }
-map{ id = "Interiors/185", description = "room 185" }
-map{ id = "Interiors/186", description = "room 186" }
-map{ id = "Interiors/187", description = "room 187" }
-map{ id = "Interiors/188", description = "room 188" }
-map{ id = "Interiors/189", description = "room 189" }
-map{ id = "Interiors/190", description = "room 190" }
-map{ id = "Interiors/191", description = "room 191" }
-map{ id = "Interiors/192", description = "room 192" }
-map{ id = "Interiors/193", description = "room 193" }
-map{ id = "Interiors/194", description = "room 194" }
-map{ id = "Interiors/195", description = "room 195" }
-map{ id = "Interiors/196", description = "room 196" }
-map{ id = "Interiors/197", description = "room 197" }
-map{ id = "Interiors/198", description = "room 198" }
-map{ id = "Interiors/199", description = "room 199" }
-map{ id = "Interiors/200", description = "room 200" }
-map{ id = "Interiors/201", description = "Entrance 08 - room 201 (East)" }
-map{ id = "Interiors/202", description = "room 202" }
-map{ id = "Interiors/203", description = "room 203" }
-map{ id = "Interiors/204", description = "room 204" }
-map{ id = "Interiors/205", description = "room 205" }
-map{ id = "Interiors/206", description = "room 206" }
-map{ id = "Interiors/207", description = "room 207" }
-map{ id = "Interiors/208", description = "room 208" }
-map{ id = "Interiors/209", description = "room 209" }
-map{ id = "Interiors/210", description = "room 210" }
-map{ id = "Interiors/211", description = "room 211" }
-map{ id = "Interiors/212", description = "room 212" }
-map{ id = "Interiors/213", description = "Entrance 18 - room 213 (Mountain)" }
-map{ id = "Interiors/214", description = "Entrance 35 - room 214 (Mountain)" }
-map{ id = "Interiors/215", description = "room 215" }
-map{ id = "Interiors/216", description = "room 216" }
-map{ id = "Interiors/217", description = "room 217" }
-map{ id = "Interiors/218", description = "room 218" }
-map{ id = "Interiors/219", description = "Entrance 34 - room 219 (Tower)" }
-map{ id = "Interiors/220", description = "room 220" }
-map{ id = "Interiors/221", description = "room 221" }
-map{ id = "Interiors/222", description = "room 222" }
-map{ id = "Interiors/223", description = "Entrance 20 - room 223" }
-map{ id = "Interiors/224", description = "Entrance 24 - room 224 (Agahnim)" }
-map{ id = "Interiors/225", description = "Entrance 2C - Entrance 7A - room 225" }
-map{ id = "Interiors/226", description = "Entrance 12 - Entrance 7F - room 226" }
-map{ id = "Interiors/227", description = "Entrance 11 - Entrance 7E - room 227" }
-map{ id = "Interiors/228", description = "Entrance 30 - room 228" }
-map{ id = "Interiors/229", description = "Entrance 31 - room 229" }
-map{ id = "Interiors/230", description = "Entrance 2E - room 230" }
-map{ id = "Interiors/231", description = "Entrance 2F - room 231" }
-map{ id = "Interiors/232", description = "Entrance 14 - room 232" }
-map{ id = "Interiors/233", description = "room 233" }
-map{ id = "Interiors/234", description = "Entrance 23 - room 234" }
-map{ id = "Interiors/235", description = "Entrance 17 - room 235" }
-map{ id = "Interiors/236", description = "room 236" }
-map{ id = "Interiors/237", description = "Entrance 1B - room 237" }
-map{ id = "Interiors/238", description = "Entrance 1D - room 238" }
-map{ id = "Interiors/239", description = "Entrance 1F - room 239" }
-map{ id = "Interiors/240", description = "Entrance 06 - room 240" }
-map{ id = "Interiors/241", description = "Entrance 07 - room 241" }
+map{ id = "Interiors/260", description = "Entrance 00 - Entrance 01 - room 260 (Link's House)" }
+map{ id = "Dungeons/Church/18", description = "Entrance 02 - room 18" }
+map{ id = "Dungeons/Castle/96", description = "Entrance 03 - room 96" }
+map{ id = "Dungeons/Castle/97", description = "Entrance 04 - room 97" }
+map{ id = "Dungeons/Castle/98", description = "Entrance 05 - room 98" }
+map{ id = "Interiors/Caves/240", description = "Entrance 06 - room 240" }
+map{ id = "Interiors/Caves/241", description = "Entrance 07 - room 241" }
+map{ id = "Dungeons/East/201", description = "Entrance 08 - room 201" }
+map{ id = "Dungeons/Desert/132", description = "Entrance 09 - room 132" }
+map{ id = "Dungeons/Desert/133", description = "Entrance 0A - room 133" }
+map{ id = "Dungeons/Desert/131", description = "Entrance 0B - room 131" }
+map{ id = "Dungeons/Desert/99", description = "Entrance 0C - room 99" }
 map{ id = "Interiors/242", description = "Entrance 0D - room 242" }
 map{ id = "Interiors/243", description = "Entrance 0E - room 243" }
 map{ id = "Interiors/244", description = "Entrance 0F - room 244" }
 map{ id = "Interiors/245", description = "Entrance 10 - room 245" }
-map{ id = "Interiors/246", description = "room 246" }
-map{ id = "Interiors/247", description = "room 247" }
-map{ id = "Interiors/248", description = "Entrance 13 - room 248" }
-map{ id = "Interiors/249", description = "Entrance 21 - room 249" }
-map{ id = "Interiors/250", description = "Entrance 22 - room 250" }
-map{ id = "Interiors/251", description = "Entrance 16 - room 251" }
-map{ id = "Interiors/252", description = "room 252" }
-map{ id = "Interiors/253", description = "Entrance 1A - room 253" }
-map{ id = "Interiors/254", description = "Entrance 1C - room 254" }
-map{ id = "Interiors/255", description = "Entrance 1E - room 255" }
+map{ id = "Interiors/Caves/227", description = "Entrance 11 - Entrance 7E - room 227" }
+map{ id = "Interiors/Caves/226", description = "Entrance 12 - Entrance 7F - room 226" }
+map{ id = "Interiors/Caves/248", description = "Entrance 13 - room 248" }
+map{ id = "Interiors/Caves/232", description = "Entrance 14 - room 232" }
+map{ id = "Dungeons/Mountain/35", description = "Entrance 15 - room 35" }
+map{ id = "Interiors/Caves/251", description = "Entrance 16 - room 251" }
+map{ id = "Interiors/Caves/235", description = "Entrance 17 - room 235" }
+map{ id = "Dungeons/Mountain/213", description = "Entrance 18 - room 213" }
+map{ id = "Dungeons/Mountain/36", description = "Entrance 19 - room 36" }
+map{ id = "Interiors/Caves/253", description = "Entrance 1A - room 253" }
+map{ id = "Interiors/Caves/237", description = "Entrance 1B - room 237" }
+map{ id = "Interiors/Caves/254", description = "Entrance 1C - room 254" }
+map{ id = "Interiors/Caves/238", description = "Entrance 1D - room 238" }
+map{ id = "Interiors/Caves/255", description = "Entrance 1E - room 255" }
+map{ id = "Interiors/Caves/239", description = "Entrance 1F - room 239" }
+map{ id = "Interiors/Caves/223", description = "Entrance 20 - room 223" }
+map{ id = "Interiors/Caves/249", description = "Entrance 21 - room 249" }
+map{ id = "Interiors/Caves/250", description = "Entrance 22 - room 250" }
+map{ id = "Interiors/Caves/234", description = "Entrance 23 - room 234" }
+map{ id = "Dungeons/Agahnim/224", description = "Entrance 24 - room 224" }
+map{ id = "Dungeons/Water/40", description = "Entrance 25 - room 40" }
+map{ id = "Dungeons/Dark/74", description = "Entrance 26 - room 74" }
+map{ id = "Dungeons/Mud/152", description = "Entrance 27 - room 152" }
+map{ id = "Dungeons/Wood/86", description = "Entrance 28 - Entrance 79 - room 86" }
+map{ id = "Dungeons/Wood/87", description = "Entrance 29 - room 87" }
+map{ id = "Dungeons/Wood/88", description = "Entrance 2A - Entrance 76 - room 88" }
+map{ id = "Dungeons/Wood/89", description = "Entrance 2B - room 89" }
+map{ id = "Interiors/Caves/225", description = "Entrance 2C - Entrance 7A - room 225" }
+map{ id = "Dungeons/Ice/14", description = "Entrance 2D - room 14" }
+map{ id = "Interiors/Caves/230", description = "Entrance 2E - room 230" }
+map{ id = "Interiors/Caves/231", description = "Entrance 2F - room 231" }
+map{ id = "Interiors/Caves/228", description = "Entrance 30 - room 228" }
+map{ id = "Interiors/Caves/229", description = "Entrance 31 - room 229" }
+map{ id = "Dungeons/Castle/85", description = "Entrance 32 - Entrance 7D - room 85" }
+map{ id = "Dungeons/Tower/119", description = "Entrance 33 - room 119" }
+map{ id = "Dungeons/Tower/219", description = "Entrance 34 - room 219" }
+map{ id = "Dungeons/Mountain/214", description = "Entrance 35 - room 214" }
+map{ id = "Dungeons/16", description = "Entrance 36 - room 16" }
+map{ id = "Dungeons/Agahnim2/12", description = "Entrance 37 - room 12" }
+map{ id = "Interiors/Caves/8", description = "Entrance 38 - room 8" }
+map{ id = "Interiors/Caves/47", description = "Entrance 39 - Entrance 80 - room 47" }
+map{ id = "Interiors/Caves/60", description = "Entrance 3A - room 60" }
+map{ id = "Interiors/Caves/44", description = "Entrance 3B - room 44" }
 map{ id = "Interiors/256", description = "Entrance 3C - room 256" }
+map{ id = "Interiors/Caves/286", description = "Entrance 3D - Entrance 55 - room 286" }
 map{ id = "Interiors/257", description = "Entrance 3E - Entrance 3F - room 257" }
 map{ id = "Interiors/258", description = "Entrance 40 - room 258" }
+map{ id = "Interiors/279", description = "Entrance 41 - room 279" }
 map{ id = "Interiors/259", description = "Entrance 42 - Entrance 43 - Entrance 44 - room 259" }
-map{ id = "Interiors/260", description = "Entrance 00 - Entrance 01 - room 260" }
 map{ id = "Interiors/261", description = "Entrance 45 - room 261" }
+map{ id = "Interiors/287", description = "Entrance 46 - Entrance 6B - room 287" }
 map{ id = "Interiors/262", description = "Entrance 47 - Entrance 48 - room 262" }
 map{ id = "Interiors/263", description = "Entrance 49 - Entrance 4A - room 263" }
 map{ id = "Interiors/264", description = "Entrance 4B - room 264" }
 map{ id = "Interiors/265", description = "Entrance 4C - room 265" }
-map{ id = "Interiors/266", description = "Entrance 4D - room 266" }
+map{ id = "Interiors/Caves/266", description = "Entrance 4D - room 266" }
 map{ id = "Interiors/267", description = "Entrance 4E - room 267" }
-map{ id = "Interiors/268", description = "Entrance 4F - Entrance 50 - room 268" }
-map{ id = "Interiors/269", description = "Entrance 5F - room 269" }
-map{ id = "Interiors/270", description = "Entrance 69 - Entrance 6A - room 270" }
-map{ id = "Interiors/271", description = "Entrance 60 - room 271" }
-map{ id = "Interiors/272", description = "Entrance 57 - room 272" }
-map{ id = "Interiors/273", description = "Entrance 59 - room 273" }
-map{ id = "Interiors/274", description = "Entrance 58 - Entrance 5A - room 274" }
-map{ id = "Interiors/275", description = "Entrance 5B - room 275" }
-map{ id = "Interiors/276", description = "Entrance 5C - Entrance 62 - room 276" }
-map{ id = "Interiors/277", description = "Entrance 5D - Entrance 5E - room 277" }
-map{ id = "Interiors/278", description = "Entrance 63 - room 278" }
-map{ id = "Interiors/279", description = "Entrance 41 - room 279" }
-map{ id = "Interiors/280", description = "Entrance 67 - room 280" }
-map{ id = "Interiors/281", description = "Entrance 61 - room 281" }
-map{ id = "Interiors/282", description = "Entrance 68 - room 282" }
-map{ id = "Interiors/283", description = "Entrance 51 - Entrance 52 - room 283" }
+map{ id = "Interiors/Caves/268", description = "Entrance 4F - Entrance 50 - room 268" }
+map{ id = "Interiors/Caves/283", description = "Entrance 51 - Entrance 52 - room 283" }
 map{ id = "Interiors/284", description = "Entrance 53 - Entrance 54 - room 284" }
-map{ id = "Interiors/285", description = "room 285" }
-map{ id = "Interiors/286", description = "Entrance 3D - Entrance 55 - room 286" }
-map{ id = "Interiors/287", description = "Entrance 46 - Entrance 6B - room 287" }
-map{ id = "Interiors/288", description = "Entrance 56 - Entrance 84 - room 288" }
-map{ id = "Interiors/289", description = "Entrance 64 - room 289" }
-map{ id = "Interiors/290", description = "Entrance 65 - Entrance 66 - room 290" }
-map{ id = "Interiors/291", description = "Entrance 6C - room 291" }
-map{ id = "Interiors/292", description = "Entrance 6D - Entrance 6E - room 292" }
-map{ id = "Interiors/293", description = "Entrance 6F - Entrance 70 - room 293" }
-map{ id = "Interiors/294", description = "Entrance 71 - Entrance 72 - room 294" }
-map{ id = "Interiors/295", description = "Entrance 83 - room 295" }
+map{ id = "Interiors/Caves/288", description = "Entrance 56 - Entrance 84 - room 288" }
+map{ id = "Interiors/272", description = "Entrance 57 - room 272" }
+map{ id = "Interiors/Caves/274", description = "Entrance 58 - Entrance 5A - room 274" }
+map{ id = "Interiors/273", description = "Entrance 59 - room 273" }
+map{ id = "Interiors/275", description = "Entrance 5B - room 275" }
+map{ id = "Interiors/Caves/276", description = "Entrance 5C - Entrance 62 - room 276" }
+map{ id = "Interiors/Caves/277", description = "Entrance 5D - Entrance 5E - room 277" }
+map{ id = "Interiors/269", description = "Entrance 5F - room 269" }
+map{ id = "Interiors/271", description = "Entrance 60 - room 271" }
+map{ id = "Interiors/281", description = "Entrance 61 - room 281" }
+map{ id = "Interiors/278", description = "Entrance 63 - room 278" }
+map{ id = "Interiors/289", description = "Entrance 64 - room 289 (Blacksmith)" }
+map{ id = "Interiors/290", description = "Entrance 65 - Entrance 66 - room 290 (Fortune Teller)" }
+map{ id = "Interiors/280", description = "Entrance 67 - room 280" }
+map{ id = "Interiors/282", description = "Entrance 68 - room 282" }
+map{ id = "Interiors/Caves/270", description = "Entrance 69 - Entrance 6A - room 270" }
+map{ id = "Interiors/Caves/291", description = "Entrance 6C - room 291" }
+map{ id = "Interiors/Caves/292", description = "Entrance 6D - Entrance 6E - room 292" }
+map{ id = "Interiors/Caves/293", description = "Entrance 6F - Entrance 70 - room 293" }
+map{ id = "Interiors/Caves/294", description = "Entrance 71 - Entrance 72 - room 294" }
+map{ id = "Dungeons/Castle/128", description = "Entrance 73 - room 128" }
+map{ id = "Dungeons/Castle/81", description = "Entrance 74 - room 81" }
+map{ id = "Dungeons/Agahnim/48", description = "Entrance 75 - room 48" }
+map{ id = "Dungeons/Wood/103", description = "Entrance 77 - room 103" }
+map{ id = "Dungeons/Wood/104", description = "Entrance 78 - room 104" }
+map{ id = "Dungeons/0", description = "Entrance 7B - room 0" }
+map{ id = "Interiors/Caves/24", description = "Entrance 7C - room 24" }
+map{ id = "Dungeons/Church/17", description = "Entrance 81 - room 17" }
+map{ id = "Interiors/Caves/3", description = "Entrance 82 - room 3" }
+map{ id = "Interiors/Caves/295", description = "Entrance 83 - room 295" }
+map{ id = "Dungeons/Castle/1", description = "room 1" }
+map{ id = "Dungeons/10", description = "room 10" }
+map{ id = "Dungeons/100", description = "room 100" }
+map{ id = "Dungeons/101", description = "room 101" }
+map{ id = "Dungeons/102", description = "room 102" }
+map{ id = "Dungeons/105", description = "room 105" }
+map{ id = "Dungeons/106", description = "room 106" }
+map{ id = "Dungeons/107", description = "room 107" }
+map{ id = "Dungeons/108", description = "room 108" }
+map{ id = "Dungeons/109", description = "room 109" }
+map{ id = "Dungeons/11", description = "room 11" }
+map{ id = "Dungeons/110", description = "room 110" }
+map{ id = "Dungeons/111", description = "room 111" }
+map{ id = "Dungeons/112", description = "room 112" }
+map{ id = "Dungeons/113", description = "room 113" }
+map{ id = "Dungeons/114", description = "room 114" }
+map{ id = "Dungeons/115", description = "room 115" }
+map{ id = "Dungeons/116", description = "room 116" }
+map{ id = "Dungeons/117", description = "room 117" }
+map{ id = "Dungeons/118", description = "room 118" }
+map{ id = "Dungeons/120", description = "room 120" }
+map{ id = "Dungeons/121", description = "room 121" }
+map{ id = "Dungeons/122", description = "room 122" }
+map{ id = "Dungeons/123", description = "room 123" }
+map{ id = "Dungeons/124", description = "room 124" }
+map{ id = "Dungeons/125", description = "room 125" }
+map{ id = "Dungeons/126", description = "room 126" }
+map{ id = "Dungeons/127", description = "room 127" }
+map{ id = "Dungeons/129", description = "room 129" }
+map{ id = "Dungeons/13", description = "room 13" }
+map{ id = "Dungeons/130", description = "room 130" }
+map{ id = "Dungeons/134", description = "room 134" }
+map{ id = "Dungeons/135", description = "room 135" }
+map{ id = "Dungeons/136", description = "room 136" }
+map{ id = "Dungeons/137", description = "room 137" }
+map{ id = "Dungeons/138", description = "room 138" }
+map{ id = "Dungeons/139", description = "room 139" }
+map{ id = "Dungeons/140", description = "room 140" }
+map{ id = "Dungeons/141", description = "room 141" }
+map{ id = "Dungeons/142", description = "room 142" }
+map{ id = "Dungeons/143", description = "room 143" }
+map{ id = "Dungeons/144", description = "room 144" }
+map{ id = "Dungeons/145", description = "room 145" }
+map{ id = "Dungeons/146", description = "room 146" }
+map{ id = "Dungeons/147", description = "room 147" }
+map{ id = "Dungeons/148", description = "room 148" }
+map{ id = "Dungeons/149", description = "room 149" }
+map{ id = "Dungeons/15", description = "room 15" }
+map{ id = "Dungeons/150", description = "room 150" }
+map{ id = "Dungeons/151", description = "room 151" }
+map{ id = "Dungeons/153", description = "room 153" }
+map{ id = "Dungeons/154", description = "room 154" }
+map{ id = "Dungeons/155", description = "room 155" }
+map{ id = "Dungeons/156", description = "room 156" }
+map{ id = "Dungeons/157", description = "room 157" }
+map{ id = "Dungeons/158", description = "room 158" }
+map{ id = "Dungeons/159", description = "room 159" }
+map{ id = "Dungeons/160", description = "room 160" }
+map{ id = "Dungeons/161", description = "room 161" }
+map{ id = "Dungeons/162", description = "room 162" }
+map{ id = "Dungeons/163", description = "room 163" }
+map{ id = "Dungeons/164", description = "room 164" }
+map{ id = "Dungeons/165", description = "room 165" }
+map{ id = "Dungeons/166", description = "room 166" }
+map{ id = "Dungeons/167", description = "room 167" }
+map{ id = "Dungeons/168", description = "room 168" }
+map{ id = "Dungeons/169", description = "room 169" }
+map{ id = "Dungeons/170", description = "room 170" }
+map{ id = "Dungeons/171", description = "room 171" }
+map{ id = "Dungeons/172", description = "room 172" }
+map{ id = "Dungeons/173", description = "room 173" }
+map{ id = "Dungeons/174", description = "room 174" }
+map{ id = "Dungeons/175", description = "room 175" }
+map{ id = "Dungeons/176", description = "room 176" }
+map{ id = "Dungeons/177", description = "room 177" }
+map{ id = "Dungeons/178", description = "room 178" }
+map{ id = "Dungeons/179", description = "room 179" }
+map{ id = "Dungeons/180", description = "room 180" }
+map{ id = "Dungeons/181", description = "room 181" }
+map{ id = "Dungeons/182", description = "room 182" }
+map{ id = "Dungeons/183", description = "room 183" }
+map{ id = "Dungeons/184", description = "room 184" }
+map{ id = "Dungeons/185", description = "room 185" }
+map{ id = "Dungeons/186", description = "room 186" }
+map{ id = "Dungeons/187", description = "room 187" }
+map{ id = "Dungeons/188", description = "room 188" }
+map{ id = "Dungeons/189", description = "room 189" }
+map{ id = "Dungeons/19", description = "room 19" }
+map{ id = "Dungeons/190", description = "room 190" }
+map{ id = "Dungeons/191", description = "room 191" }
+map{ id = "Dungeons/192", description = "room 192" }
+map{ id = "Dungeons/193", description = "room 193" }
+map{ id = "Dungeons/194", description = "room 194" }
+map{ id = "Dungeons/195", description = "room 195" }
+map{ id = "Dungeons/196", description = "room 196" }
+map{ id = "Dungeons/197", description = "room 197" }
+map{ id = "Dungeons/198", description = "room 198" }
+map{ id = "Dungeons/199", description = "room 199" }
+map{ id = "Dungeons/Church/2", description = "room 2" }
+map{ id = "Dungeons/20", description = "room 20" }
+map{ id = "Dungeons/200", description = "room 200" }
+map{ id = "Dungeons/202", description = "room 202" }
+map{ id = "Dungeons/203", description = "room 203" }
+map{ id = "Dungeons/204", description = "room 204" }
+map{ id = "Dungeons/205", description = "room 205" }
+map{ id = "Dungeons/206", description = "room 206" }
+map{ id = "Dungeons/207", description = "room 207" }
+map{ id = "Dungeons/208", description = "room 208" }
+map{ id = "Dungeons/209", description = "room 209" }
+map{ id = "Dungeons/21", description = "room 21" }
+map{ id = "Dungeons/210", description = "room 210" }
+map{ id = "Dungeons/211", description = "room 211" }
+map{ id = "Dungeons/212", description = "room 212" }
+map{ id = "Dungeons/215", description = "room 215" }
+map{ id = "Dungeons/216", description = "room 216" }
+map{ id = "Dungeons/217", description = "room 217" }
+map{ id = "Dungeons/218", description = "room 218" }
+map{ id = "Dungeons/22", description = "room 22" }
+map{ id = "Dungeons/220", description = "room 220" }
+map{ id = "Dungeons/221", description = "room 221" }
+map{ id = "Dungeons/222", description = "room 222" }
+map{ id = "Dungeons/23", description = "room 23" }
+map{ id = "Interiors/Caves/233", description = "room 233 (empty)" }
+map{ id = "Interiors/Caves/236", description = "room 236 (empty)" }
+map{ id = "Interiors/Caves/246", description = "room 246 (empty)" }
+map{ id = "Interiors/Caves/247", description = "room 247 (empty)" }
+map{ id = "Dungeons/25", description = "room 25" }
+map{ id = "Interiors/Caves/252", description = "room 252 (empty)" }
+map{ id = "Dungeons/26", description = "room 26" }
+map{ id = "Dungeons/27", description = "room 27" }
+map{ id = "Dungeons/28", description = "room 28" }
+map{ id = "Dungeons/285", description = "room 285" }
+map{ id = "Dungeons/29", description = "room 29" }
+map{ id = "Dungeons/30", description = "room 30" }
+map{ id = "Dungeons/31", description = "room 31" }
+map{ id = "Dungeons/32", description = "room 32" }
+map{ id = "Dungeons/Church/33", description = "room 33" }
+map{ id = "Dungeons/Church/34", description = "room 34" }
+map{ id = "Dungeons/37", description = "room 37" }
+map{ id = "Dungeons/38", description = "room 38" }
+map{ id = "Dungeons/39", description = "room 39" }
+map{ id = "Dungeons/4", description = "room 4" }
+map{ id = "Dungeons/41", description = "room 41" }
+map{ id = "Dungeons/42", description = "room 42" }
+map{ id = "Dungeons/43", description = "room 43" }
+map{ id = "Dungeons/45", description = "room 45" }
+map{ id = "Dungeons/46", description = "room 46" }
+map{ id = "Dungeons/49", description = "room 49" }
+map{ id = "Dungeons/5", description = "room 5" }
+map{ id = "Dungeons/Church/50", description = "room 50" }
+map{ id = "Dungeons/51", description = "room 51" }
+map{ id = "Dungeons/52", description = "room 52" }
+map{ id = "Dungeons/53", description = "room 53" }
+map{ id = "Dungeons/54", description = "room 54" }
+map{ id = "Dungeons/55", description = "room 55" }
+map{ id = "Dungeons/56", description = "room 56" }
+map{ id = "Dungeons/57", description = "room 57" }
+map{ id = "Dungeons/58", description = "room 58" }
+map{ id = "Dungeons/59", description = "room 59" }
+map{ id = "Dungeons/6", description = "room 6" }
+map{ id = "Dungeons/61", description = "room 61" }
+map{ id = "Dungeons/62", description = "room 62" }
+map{ id = "Dungeons/63", description = "room 63" }
+map{ id = "Dungeons/64", description = "room 64" }
+map{ id = "Dungeons/65", description = "room 65" }
+map{ id = "Dungeons/Church/66", description = "room 66" }
+map{ id = "Dungeons/67", description = "room 67" }
+map{ id = "Dungeons/68", description = "room 68" }
+map{ id = "Dungeons/69", description = "room 69" }
+map{ id = "Dungeons/7", description = "room 7" }
+map{ id = "Dungeons/70", description = "room 70" }
+map{ id = "Dungeons/71", description = "room 71" }
+map{ id = "Dungeons/72", description = "room 72" }
+map{ id = "Dungeons/73", description = "room 73" }
+map{ id = "Dungeons/75", description = "room 75" }
+map{ id = "Dungeons/76", description = "room 76" }
+map{ id = "Dungeons/77", description = "room 77" }
+map{ id = "Dungeons/78", description = "room 78" }
+map{ id = "Dungeons/79", description = "room 79" }
+map{ id = "Dungeons/80", description = "room 80" }
+map{ id = "Dungeons/82", description = "room 82" }
+map{ id = "Dungeons/83", description = "room 83" }
+map{ id = "Dungeons/84", description = "room 84" }
+map{ id = "Dungeons/9", description = "room 9" }
+map{ id = "Dungeons/90", description = "room 90" }
+map{ id = "Dungeons/91", description = "room 91" }
+map{ id = "Dungeons/92", description = "room 92" }
+map{ id = "Dungeons/93", description = "room 93" }
+map{ id = "Dungeons/94", description = "room 94" }
+map{ id = "Dungeons/95", description = "room 95" }
 map{ id = "Overworld/FirstPart/LightWorld/FullMap", description = "LightWorld" }
 map{ id = "Overworld/FirstPart/LightWorld/OneMap", description = "OneMap" }
-map{ id = "Dungeons/Castle/80", description = "B3 - 80" }
-map{ id = "Dungeons/Castle/70", description = "B2 - 70" }
-map{ id = "Dungeons/Castle/71", description = "B1 - 71" }
-map{ id = "Dungeons/Castle/72", description = "B1 - 72" }
-map{ id = "Dungeons/Castle/81", description = "B1 - 81" }
-map{ id = "Dungeons/Castle/82", description = "B1 - 82" }
-map{ id = "Dungeons/Castle/50", description = "1F - 50" }
-map{ id = "Dungeons/Castle/01", description = "1F - 01" }
-map{ id = "Dungeons/Castle/52", description = "1F - 52" }
-map{ id = "Dungeons/Castle/60", description = "1F - 60" }
-map{ id = "Dungeons/Castle/61", description = "1F - 61" }
-map{ id = "Dungeons/Castle/62", description = "1F - 62" }
-map{ id = "Dungeons/Castle/51", description = "2F - 51" }
-map{ id = "Dungeons/Tower/87", description = "1F - 87" }
-map{ id = "Dungeons/Tower/77", description = "2F - 77" }
-map{ id = "Dungeons/Tower/31", description = "3F - 31" }
-map{ id = "Dungeons/Tower/27", description = "4F - 27" }
-map{ id = "Dungeons/Tower/17", description = "5F - 17" }
-map{ id = "Dungeons/Tower/07", description = "6F - 07" }
 
 tileset{ id = "temp", description = "temp" }
 

@@ -4,7 +4,7 @@ properties{
   width = 512,
   height = 512,
   tileset = "temp",
-  music = "same",
+  music = "MainField-Hikari-First",
 }
 
 custom_entity{
@@ -23,7 +23,6 @@ destination{
   y = 389,
   name = "Fly-2",
   direction = 3,
-  default = true,
 }
 
 teletransporter{
@@ -54,5 +53,13 @@ teletransporter{
   width = 16,
   height = 16,
   destination_map = "Interiors/265",
+}
+
+destination{
+  layer = 0,
+  x = 208,
+  y = 357,
+  direction = 3,
+  default = true,
 }
 

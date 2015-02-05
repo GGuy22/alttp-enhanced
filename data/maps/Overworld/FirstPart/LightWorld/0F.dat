@@ -4,7 +4,7 @@ properties{
   width = 512,
   height = 512,
   tileset = "temp",
-  music = "same",
+  music = "MainField-Hikari-First",
 }
 
 custom_entity{
@@ -64,6 +64,7 @@ teletransporter{
   height = 16,
   name = "Whirl-35",
   sprite = "entities/teletransporter",
+  sound = "warp",
   destination_map = "Overworld/FirstPart/LightWorld/35",
   destination = "BA-Whirl",
 }
@@ -90,6 +91,6 @@ teletransporter{
   y = 24,
   width = 16,
   height = 16,
-  destination_map = "Interiors/276",
+  destination_map = "Interiors/Caves/276",
 }
 

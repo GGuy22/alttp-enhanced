@@ -111,14 +111,3 @@ teletransporter{
   destination = "Fly-8",
 }
 
-teletransporter{
-  layer = 0,
-  x = 248,
-  y = 184,
-  width = 16,
-  height = 16,
-  sprite = "entities/teletransporter",
-  sound = "warp",
-  destination_map = "Overworld/FirstPart/LightWorld/OneMap",
-}
-
