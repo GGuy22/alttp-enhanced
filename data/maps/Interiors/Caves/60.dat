@@ -17,3 +17,35 @@ custom_entity{
   sprite = "temp/Interiors/60",
 }
 
+separator{
+  layer = 0,
+  x = 0,
+  y = 488,
+  width = 512,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 0,
+  y = 0,
+  width = 512,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 512,
+  y = 0,
+  width = 16,
+  height = 512,
+}
+
+separator{
+  layer = 0,
+  x = -16,
+  y = 0,
+  width = 16,
+  height = 512,
+}
+

@@ -68,3 +68,24 @@ teletransporter{
   destination_map = "Interiors/245",
 }
 
+destination{
+  layer = 0,
+  x = 128,
+  y = 141,
+  direction = 3,
+}
+
+destination{
+  layer = 0,
+  x = 64,
+  y = 381,
+  direction = 3,
+}
+
+destination{
+  layer = 0,
+  x = 368,
+  y = 317,
+  direction = 3,
+}
+

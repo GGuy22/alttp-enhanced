@@ -4,6 +4,7 @@ function sol.main:on_started()
 --  sol.video.set_window_size(1280, 720)
 --  sol.video.set_window_size(1024, 896) -- snes 4x
   sol.video.set_window_size(960, 640) -- gba 4x
+--  sol.video.set_window_size(960, 600)
   sol.language.set_language("en")
 --  local solarus_logo = require("menus/solarus_logo")
 --  sol.menu.start(self, solarus_logo)

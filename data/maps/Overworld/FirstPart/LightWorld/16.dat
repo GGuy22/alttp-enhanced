@@ -58,7 +58,7 @@ teletransporter{
 destination{
   layer = 0,
   x = 208,
-  y = 357,
+  y = 349,
   direction = 3,
   default = true,
 }

@@ -51,7 +51,7 @@ custom_entity{
 teletransporter{
   layer = 0,
   x = 744,
-  y = 600,
+  y = 592,
   width = 16,
   height = 16,
   destination_map = "Interiors/Caves/225",

@@ -39,9 +39,16 @@ teletransporter{
 teletransporter{
   layer = 0,
   x = 424,
-  y = 296,
+  y = 288,
   width = 16,
   height = 16,
   destination_map = "Interiors/Caves/286",
+}
+
+destination{
+  layer = 0,
+  x = 432,
+  y = 309,
+  direction = 3,
 }
 

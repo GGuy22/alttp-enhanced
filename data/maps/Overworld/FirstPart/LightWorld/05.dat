@@ -81,7 +81,7 @@ teletransporter{
 teletransporter{
   layer = 0,
   x = 792,
-  y = 456,
+  y = 448,
   width = 16,
   height = 16,
   destination_map = "Interiors/Caves/237",
@@ -90,7 +90,7 @@ teletransporter{
 teletransporter{
   layer = 0,
   x = 712,
-  y = 520,
+  y = 512,
   width = 16,
   height = 16,
   destination_map = "Interiors/Caves/254",
@@ -99,7 +99,7 @@ teletransporter{
 teletransporter{
   layer = 0,
   x = 792,
-  y = 552,
+  y = 544,
   width = 16,
   height = 16,
   destination_map = "Interiors/Caves/253",
@@ -108,7 +108,7 @@ teletransporter{
 teletransporter{
   layer = 0,
   x = 888,
-  y = 584,
+  y = 576,
   width = 16,
   height = 16,
   destination_map = "Interiors/Caves/268",
@@ -117,7 +117,7 @@ teletransporter{
 teletransporter{
   layer = 0,
   x = 936,
-  y = 584,
+  y = 576,
   width = 16,
   height = 16,
   destination_map = "Interiors/Caves/255",
@@ -126,7 +126,7 @@ teletransporter{
 teletransporter{
   layer = 0,
   x = 968,
-  y = 872,
+  y = 864,
   width = 16,
   height = 16,
   destination_map = "Interiors/Caves/239",

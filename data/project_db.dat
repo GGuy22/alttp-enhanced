@@ -195,7 +195,7 @@ map{ id = "Dungeons/146", description = "room 146" }
 map{ id = "Dungeons/147", description = "room 147" }
 map{ id = "Dungeons/148", description = "room 148" }
 map{ id = "Dungeons/149", description = "room 149" }
-map{ id = "Dungeons/15", description = "room 15" }
+map{ id = "Dungeons/15", description = "room 15 (empty)" }
 map{ id = "Dungeons/150", description = "room 150" }
 map{ id = "Dungeons/151", description = "room 151" }
 map{ id = "Dungeons/153", description = "room 153" }
@@ -286,17 +286,17 @@ map{ id = "Dungeons/31", description = "room 31" }
 map{ id = "Dungeons/32", description = "room 32" }
 map{ id = "Dungeons/Church/33", description = "room 33" }
 map{ id = "Dungeons/Church/34", description = "room 34" }
-map{ id = "Dungeons/37", description = "room 37" }
+map{ id = "Dungeons/37", description = "room 37 (empty)" }
 map{ id = "Dungeons/38", description = "room 38" }
 map{ id = "Dungeons/39", description = "room 39" }
 map{ id = "Dungeons/4", description = "room 4" }
 map{ id = "Dungeons/41", description = "room 41" }
 map{ id = "Dungeons/42", description = "room 42" }
 map{ id = "Dungeons/43", description = "room 43" }
-map{ id = "Dungeons/45", description = "room 45" }
+map{ id = "Dungeons/45", description = "room 45 (empty)" }
 map{ id = "Dungeons/46", description = "room 46" }
 map{ id = "Dungeons/49", description = "room 49" }
-map{ id = "Dungeons/5", description = "room 5" }
+map{ id = "Dungeons/5", description = "room 5 (empty)" }
 map{ id = "Dungeons/Church/50", description = "room 50" }
 map{ id = "Dungeons/51", description = "room 51" }
 map{ id = "Dungeons/52", description = "room 52" }
@@ -319,16 +319,16 @@ map{ id = "Dungeons/68", description = "room 68" }
 map{ id = "Dungeons/69", description = "room 69" }
 map{ id = "Dungeons/7", description = "room 7" }
 map{ id = "Dungeons/70", description = "room 70" }
-map{ id = "Dungeons/71", description = "room 71" }
-map{ id = "Dungeons/72", description = "room 72" }
+map{ id = "Dungeons/71", description = "room 71 (empty)" }
+map{ id = "Dungeons/72", description = "room 72 (empty)" }
 map{ id = "Dungeons/73", description = "room 73" }
 map{ id = "Dungeons/75", description = "room 75" }
 map{ id = "Dungeons/76", description = "room 76" }
 map{ id = "Dungeons/77", description = "room 77" }
 map{ id = "Dungeons/78", description = "room 78" }
 map{ id = "Dungeons/79", description = "room 79" }
-map{ id = "Dungeons/80", description = "room 80" }
-map{ id = "Dungeons/82", description = "room 82" }
+map{ id = "Dungeons/Castle/80", description = "room 80" }
+map{ id = "Dungeons/Castle/82", description = "room 82" }
 map{ id = "Dungeons/83", description = "room 83" }
 map{ id = "Dungeons/84", description = "room 84" }
 map{ id = "Dungeons/9", description = "room 9" }

@@ -49,7 +49,7 @@ teletransporter{
 teletransporter{
   layer = 0,
   x = 264,
-  y = 216,
+  y = 208,
   width = 16,
   height = 16,
   destination_map = "Interiors/227",
@@ -62,5 +62,19 @@ teletransporter{
   width = 16,
   height = 16,
   destination_map = "Interiors/227",
+}
+
+destination{
+  layer = 0,
+  x = 224,
+  y = 141,
+  direction = 3,
+}
+
+destination{
+  layer = 0,
+  x = 272,
+  y = 229,
+  direction = 3,
 }
 

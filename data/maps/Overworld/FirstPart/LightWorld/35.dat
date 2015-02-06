@@ -81,7 +81,7 @@ teletransporter{
 teletransporter{
   layer = 0,
   x = 408,
-  y = 56,
+  y = 48,
   width = 16,
   height = 16,
   destination_map = "Interiors/Caves/274",
@@ -90,7 +90,7 @@ teletransporter{
 teletransporter{
   layer = 0,
   x = 680,
-  y = 408,
+  y = 400,
   width = 16,
   height = 16,
   destination_map = "Interiors/Caves/277",
@@ -99,9 +99,20 @@ teletransporter{
 teletransporter{
   layer = 0,
   x = 104,
-  y = 760,
+  y = 752,
   width = 16,
   height = 16,
   destination_map = "Interiors/291",
+}
+
+teletransporter{
+  layer = 0,
+  x = 1024,
+  y = 512,
+  width = 16,
+  height = 512,
+  transition = "scrolling",
+  destination_map = "Overworld/FirstPart/LightWorld/3F",
+  destination = "_side",
 }
 

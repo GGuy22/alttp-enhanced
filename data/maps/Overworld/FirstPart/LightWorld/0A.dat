@@ -42,7 +42,7 @@ teletransporter{
 teletransporter{
   layer = 0,
   x = 440,
-  y = 104,
+  y = 96,
   width = 16,
   height = 16,
   destination_map = "Interiors/Caves/230",
@@ -51,7 +51,7 @@ teletransporter{
 teletransporter{
   layer = 0,
   x = 424,
-  y = 200,
+  y = 192,
   width = 16,
   height = 16,
   destination_map = "Dungeons/East/201",

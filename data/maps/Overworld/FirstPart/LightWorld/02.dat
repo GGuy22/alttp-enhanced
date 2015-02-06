@@ -41,9 +41,32 @@ custom_entity{
 teletransporter{
   layer = 0,
   x = 328,
-  y = 120,
+  y = 112,
   width = 16,
   height = 16,
   destination_map = "Interiors/Caves/226",
+}
+
+teletransporter{
+  layer = 0,
+  x = 200,
+  y = 296,
+  width = 16,
+  height = 16,
+  destination_map = "Overworld/FirstPart/LightWorld/02",
+}
+
+destination{
+  layer = 0,
+  x = 352,
+  y = 253,
+  direction = 3,
+}
+
+destination{
+  layer = 0,
+  x = 336,
+  y = 133,
+  direction = 3,
 }
 

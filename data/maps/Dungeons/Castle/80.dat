@@ -14,20 +14,44 @@ custom_entity{
   width = 16,
   height = 16,
   direction = 3,
-  sprite = "temp/Interiors/82",
+  sprite = "temp/Interiors/80",
+}
+
+separator{
+  layer = 0,
+  x = 248,
+  y = 0,
+  width = 16,
+  height = 512,
 }
 
 separator{
   layer = 0,
   x = 0,
-  y = 248,
+  y = 488,
   width = 512,
   height = 16,
 }
 
 separator{
   layer = 0,
-  x = 248,
+  x = 0,
+  y = 0,
+  width = 512,
+  height = 16,
+}
+
+separator{
+  layer = 0,
+  x = 512,
+  y = 0,
+  width = 16,
+  height = 512,
+}
+
+separator{
+  layer = 0,
+  x = -16,
   y = 0,
   width = 16,
   height = 512,
