@@ -73,3 +73,22 @@ separator{
   height = 16,
 }
 
+teletransporter{
+  layer = 0,
+  x = 120,
+  y = 488,
+  width = 16,
+  height = 16,
+  destination_map = "Overworld/FirstPart/LightWorld/22",
+  destination = "64",
+}
+
+destination{
+  layer = 0,
+  x = 128,
+  y = 493,
+  name = "64",
+  direction = 1,
+  default = true,
+}
+

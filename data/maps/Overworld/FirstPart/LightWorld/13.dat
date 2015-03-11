@@ -36,6 +36,7 @@ teletransporter{
   height = 512,
   transition = "scrolling",
   destination_map = "Overworld/FirstPart/LightWorld/14",
+  destination = "_side",
 }
 
 teletransporter{

@@ -68,6 +68,7 @@ destination{
   layer = 0,
   x = 224,
   y = 141,
+  name = "64",
   direction = 3,
 }
 
